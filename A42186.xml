@@ -1,0 +1,864 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A glass for the people of New England, in which they may see themselves and spirits, and if not too late, repent and turn from their abominable ways and cursed contrivances that so the Lord God may turn away his wrath, which he will bring upon them, it they repent not, for their blasphemies against himself, and for all the murders and cruelties done to his tender people, ever since they usurped authority to banish, hang, whip, and cut off ears, and spoil the goods of dissenters from them in religious matters, while themselves disown infallibility in those things / by S. G.</title>
+            <author>S. G. (Samuel Groome), d. 1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42186</idno>
+            <idno type="STC">Wing G2065</idno>
+            <idno type="STC">ESTC R10937</idno>
+            <idno type="EEBO-CITATION">13568298</idno>
+            <idno type="OCLC">ocm 13568298</idno>
+            <idno type="VID">100353</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100353)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 456:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A glass for the people of New England, in which they may see themselves and spirits, and if not too late, repent and turn from their abominable ways and cursed contrivances that so the Lord God may turn away his wrath, which he will bring upon them, it they repent not, for their blasphemies against himself, and for all the murders and cruelties done to his tender people, ever since they usurped authority to banish, hang, whip, and cut off ears, and spoil the goods of dissenters from them in religious matters, while themselves disown infallibility in those things / by S. G.</title>
+                  <author>S. G. (Samuel Groome), d. 1683.</author>
+                  <author>Fox, George, 1624-1691.</author>
+                  <author>Tyso, John, d. 1700.</author>
+               </titleStmt>
+               <extent>43 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A secretly-printed Quaker tract, on the cruel action taken by the General Court of Massachusetts in 1643 against the Quakers, and Anne Hutchison." -- Pref. to the 1929 edition.</note>
+                  <note>"Some tenents ... found ... in a book called, The elders tenents in the Bay," p. 24-28; "Queries ... for the New-England priests and elders to answer," signed: G. F[ox], p. 29-33; "The copy of a letter which was delivered into the hands of R. Bellingham ... for him to read and consider," dated and signed: the 15th of the 4th moneth, 1667.  John Tyso, and other writings by Tyso, p. 34-43.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hutchinson, Anne Marbury, 1591-1643.</term>
+               <term>Society of Friends --  Massachusetts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:100353:1"/>
+               <pb facs="tcp:100353:1"/>
+A GLASS For the People of New-England, IN WHICH They may ſee themſelves and Spirits, and if not too late, Repent and Turn from their Abominable Ways and Curſed Contrivances:</p>
+            <p>That ſo the Lord God may turn away his Wrath, which he will bring upon them (if they Repent not) for their Blaſphemies againſt himſelf, and for all the Mur<g ref="char:EOLhyphen"/>ders and Cruelties done to his tender People, ever ſince they uſurped Authority to Baniſh, Hang, Whip, and Cut Off Ears, and Spoil the Goods of Diſſenters from them in Religious Matters, while themſelves diſown Infallibility in thoſe things.</p>
+            <p>
+               <hi>By</hi> S. G.</p>
+            <p>
+               <hi>Man in the Pride of his Heart, will not ſeek after God; but when his Pride is ſta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned, and his Lofty Look and Mind brought low, then may be he will, though many times it proves too late.</hi>
+            </p>
+            <p>Printed in the Year, 1676.</p>
+            <pb facs="tcp:100353:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:100353:2"/>
+            <head>A GLASS For the People of New-England, In which they may ſee themſelves and Spirits, and if not too late Repent and Turn from their Abomi<g ref="char:EOLhyphen"/>nable Wayes and Curſed Contrivances.</head>
+            <p>THey may remember, that themſelves were here ac<g ref="char:EOLhyphen"/>counted Diſſenters from the Epiſcopal Worſhip<g ref="char:EOLhyphen"/>pers; and may be, many of them, in that Day could not in Conſcience Comply with the <hi>Prelate</hi> then in pow<g ref="char:EOLhyphen"/>er; ſo took their Flight in that Day, in which they were cal<g ref="char:EOLhyphen"/>led to bear a Teſtimony againſt that they ſaw to be Evil in that Day and Time.</p>
+            <p>But when they came to <hi>New-England,</hi> they (I mean the worſt and baſeſt-ſpirited of them, which indeed were moſt in Number) fell to Bani<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h their Fellows, which could not bow to their gilded Calf of Will-worſhip, which in ſhort time grew a great Bull, with Horns to puſh and gore, even to the Gallows, thoſe that could not worſhip the Beaſt; notwithſtanding the Lord raiſed up a Teſtimony in many of their Neighbours and Inhabitants of the ſame Country, who witneſſed for the God of Heaven, againſt their Wayes, Doctrines and Worſhips, ſome of which they baniſhed in a barbarous manner; others they evilly intreated and accuſed them of Hereſie, Conſpira<g ref="char:EOLhyphen"/>cy, Muteny, Faction, and what n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, to hide their Deceit and cover their Perſecution withal. And to the end they may come
+<pb n="4" facs="tcp:100353:3"/>
+to a Sight and Senſe of their Abominations, I am willing to ſet a few things in order before them, and not only before them, but alſo that all others may hear, and learn, and fear, and do no more ſo wickedly, leſt the Anger of the juſt God break forth as a Flame, as it is now happened among that perſecuting Gene<g ref="char:EOLhyphen"/>ration in <hi>New-England.</hi> So that all may ſee againſt whom and what they have ſet themſelves, and vaunted themſelves at all times, even againſt the Appearance of the Lord Jeſus Chriſt, that he ſhould not appear to ſtain their Pride, in which they prided themſelves above all Humanity or Tenderneſs, either to Learned or Unlearned, Male or Female, Old or Young (if any queſtioned what their Hireling Prieſts and Smiting Pro<g ref="char:EOLhyphen"/>phets ſaid) they muſt be baniſhed, ſlandered and named with reproachful Names at beſt; but how much worſe uſed, many can witneſs, and their own Cruelty manifeſt.</p>
+            <p>Many were the Abuſes committed by them, on thoſe that went over on the ſame Account as themſelves did, and had as good a Right to live there as any amongſt them, although they baniſhed them, by what Power, they beſt know that have ſeen their Patent; but I'le leave that a while, and come to their proceeding againſt <hi>John Wheelwright,</hi> one of the Miniſters of the Country, whom they charged with <hi>Falſe D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctrine,</hi> and <hi>a Mover of Sedition,</hi> and what not, as you may ſee at large in a Book in Manuſcript, in which is all their Proceeding, too much here to inſert, I'le only give the Reader ſome Paſſages, by which it may be eaſily underſtood, againſt what they ſet them<g ref="char:EOLhyphen"/>ſelves, and oppoſed.</p>
+            <p>But I may firſt give a hint at the manner of their Work; <hi>J<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn Wheelwright</hi> preached of a Light in man, and of a Spi<g ref="char:EOLhyphen"/>rit in man, at which <hi>New-England</hi> was in an Uproar, and much troubled (as <hi>Herod</hi> and all <hi>Judea</hi> was when they heard of Chriſt Jeſus (who is the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight) coming into the World. So a <hi>Jezebel</hi>'s Faſt, as you ſhall ſee anon was proclaimed, under pretence to ſeek God in this Day of Trouble; the Faſt was kept <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the 16th Day of the 11th Moneth, 1636. and this <hi>Peſtilent Man</hi> (as they deemed him) <hi>John Wheelwright,</hi> muſt preach at <hi>B<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſton,</hi> before the Wolves in Sheeps Clothing; and
+<pb n="5" facs="tcp:100353:3"/>
+indeed, however it hath been or may be with him ſince, the man then ſpoke and preached many ſound Truths; I'le here inſert ſome of his Sermon, and let the Reader judge.</p>
+            <p>He exhorted the Brethren and Siſters, <hi>To get Chriſt into their Hearts, that they may be happy;</hi> and exhorts his Brethren and Siſters in the Name of God, <hi>To endeavour to bring Chriſt into the Hearts of People, and then</hi> (ſaith he) <hi>you ſhall make the Church and your ſelves happy.</hi>
+            </p>
+            <p>And alſo ſaid, <hi>That as ſoon as Chriſt cometh into the Soul, he makes the Creature nothing; and</hi> (ſaid he) <hi>in the Goſpel Works of Sanctification muſt be preſſed no other way, but as they grow from the Root, Chriſt Jeſus; for it is he that worketh in you both to will and to do, of his own good Pleaſure: and</hi> (ſaid he) <hi>this is the Covenant of Grace, I will forgive their Sins, and write my Law in their Hearts and Inward Parts, and that is the Goſpel in which the Spirit of God is conveyed, &amp;c.</hi>
+            </p>
+            <p>And ſaith he, <hi>We muſt be Meck and Lowly, as Chriſt was lowly, and content to receive all from the Father, even ſo muſt we be meek and lowly, and content to receive all from Chriſt: If Duties be preſſed any other way, they will be Burdens, that nei<g ref="char:EOLhyphen"/>ther we nor our Fathers were or will be able to bear; therefore,</hi> ſaith he, <hi>if we mean to keep Jeſus Chriſt, we muſt keep open this Fountain, and held forth this Light.</hi>
+            </p>
+            <p>And told them in that S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmon, <hi>That the Spirit of Chriſt was no Smiting Spirit</hi> (and ſo far <hi>John Wheelwright</hi> in this place) with much more, honeſt &amp; true things, that were then given him to declare, and which indeed he then even in the midſt of Woolflſh Profeſſors did boldly and valiantly declare, and as honeſtly and nobly ſtood unto in your Court, when and where you Arraigned him, Judged him and Condemned him, but could not diſprove his Doctrine, though he and others of<g ref="char:EOLhyphen"/>ten challenged both Prieſts and Profeſſors, from higheſt to low<g ref="char:EOLhyphen"/>eſt; and all or moſt you had to ſay, was, <hi>That it was contrary to the reſt of the Miniſters, and therefore was Seditious and Mutinous.</hi>
+            </p>
+            <p>But becauſe I would be fair, and not wreſt their words nor meanings, I'le rehearſe ſome of their own Sayings in open Court
+<pb n="6" facs="tcp:100353:4"/>
+againſt <hi>Wheelwright</hi>'s Doctrine, exactly as I read in a Book, as aforeſaid, and having alſo ſome Knowledge of things done in that Place of <hi>N<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w-England.</hi> At a Court at <hi>Boſton,</hi> 1636. conſiſting of <hi>Henry Vane</hi> Governour, Twelve Magiſtrates, Twelve Prieſts &amp; Thirty Three Deputies; <hi>John Wheelwright</hi> was brought into the Court, and accuſed for <hi>preaching on the Faſt Day a Heretical and Seditious Sermon, tending to Mutiny and Diſturbance. Wheelwright</hi> bids them <hi>prove it by Scripture,</hi> and ſo did the Governour and many others, who ſaw their Wickedneſs, and abhorred and declared againſt their Procee<g ref="char:EOLhyphen"/>dings; and many Members in the Court gave in their Teſti<g ref="char:EOLhyphen"/>mony, <hi>That his Doctrine was true, and according to God and Scriptures;</hi> and ſo ſaid <hi>John Cotton,</hi> one of the Twelve Judges of the Matter, and a chief man for Learning, as they accoun<g ref="char:EOLhyphen"/>ted him. But ſo mad was the greateſt part of them, that they would proceed againſt <hi>Wheelwright</hi> and his Doctrine, right or wrong; but he would not anſwer to their enſnaring Queſtions, but ſtill offered them to <hi>prove his Doctrine by Scriptures.</hi>
+            </p>
+            <p>And now, to make good my word, I'le give the Reader their own words in Court.</p>
+            <p>And firſt let's hear <hi>Collicott,</hi> one of the Witneſſes againſt him in Court (ſaith Collicott) <hi>His <g ref="char:V">Ʋ</g>ſe in his Sermon was, to put a Difference between a Covenant of Works, and a Covenant of Grace, and I do conceive, that he did drive againſt the things now in queſtion. And for the Light that is revealed by the Spi<g ref="char:EOLhyphen"/>rit, he did plainly and punctually ſay, That in that Caſe there was nothing to be ſeen but the Glorious Light of the Spirit break<g ref="char:EOLhyphen"/>ing in upon the Soul in an abſolute Promiſe.</hi> So far <hi>Collicott.</hi>
+            </p>
+            <p>But let's hear <hi>Spencer,</hi> that great Orator, and <hi>New-England</hi> Church Member; may be hee'l be more to the Purpoſe then his Brother <hi>Collicott:</hi> Well, come on, <hi>Spencer;</hi> let's hear what thou canſt ſay againſt <hi>John Wheelwright.</hi>
+            </p>
+            <p>Spencer: Wheelwright <hi>teaches, that the Knowledge of our Sanctification, as well as our Juſtification, is only by Faith in Chriſt; and that in the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ovenant of Grace nothing is revealed but Jeſus Chriſt, and his Righteouſneſs freely given to the Soul, and the Knowledge of it comes by Faith: And this,</hi> ſaith Spen<g ref="char:EOLhyphen"/>cer,
+<pb n="7" facs="tcp:100353:4"/>
+               <hi>is contrary to the Doctrine preacht in</hi> New-England; <hi>for,</hi> ſaith Spencer, <hi>it is commonly taught in</hi> New-England, <hi>That a man may prove his Juſtificaiion by his Sanctification.</hi> And ſo far <hi>Spencer</hi> in this place.</p>
+            <p>Well, hear <hi>John Endicott: This is concluded a Falſe Do<g ref="char:EOLhyphen"/>ctrine, becauſe it is a Doctrine againſt all the Miniſters of the Country.</hi> But here <hi>John Endicott</hi> told a Notorious Lye in o<g ref="char:EOLhyphen"/>pen Court; for ſure he owned that <hi>John Cotton</hi> was a Mini<g ref="char:EOLhyphen"/>ſter, and if ſo, hear what he declared in open Court.</p>
+            <p>Cotton: <hi>Brother</hi> Wheelwright<hi>'s Doctrine was according to God, in the Poin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Controverted, and wholely, and altogether; and nothing did I hear alledged againſt the Doctrine proved by the Word of God.</hi> And ſo far <hi>John Cotton,</hi> with much more, which he then ſpake to allay the Heat of their Raging Spirits, but all would not do; for when they were ſo much Challenged to prove by Scripture the Doctrine Falſe, which <hi>Wheelwright</hi> had del<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vered, or elſe to acquit him, they found out another way to bring their Wicked Ends to paſs.</p>
+            <p>And ſaid <hi>Spencer: The Matter in hand is not th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Doctrine, whether it be true or falſe; but the Queſtion is, Whether or not Mr.</hi> Wheelwright <hi>hath ſtirred up Mutiny in the Country, and caſt Aſperſion upon the Miniſters?</hi> And the Miniſters, I mean eleven or twelve, were as mad as who was madeſt, and as violent as any in this Matter; for which, and ſuch like Cau<g ref="char:EOLhyphen"/>ſes and Out-rages, committed by them, both in <hi>New-Eng<g ref="char:EOLhyphen"/>land,</hi> and alſo here in <hi>England,</hi> the Lord, by ſundry Wayes and in divers Manners, hath pleaded with ſome of them, and ſome are hardned againſt a Day of Judgment, which certainly will overtake them in this Life, or in the Life and Judgment that is to come.</p>
+            <p>But that which is moſt to be lamented, that thoſe which once had a Good Teſtimony in their Hearts and Mouthes for God and his Light and ſpiritual Appearance; and they not be<g ref="char:EOLhyphen"/>ing faithful and conſtant to that which was made manifeſt and committed to them, its even happened to them according to the Saying of the Lord God, by the Mouth of his Prophet, That <hi>in the Day in which a Righteous Man turns from his Righ<g ref="char:EOLhyphen"/>teouſneſs,</hi>
+               <pb n="8" facs="tcp:100353:5"/>
+               <hi>and doth wickedly, all the Righteouſneſs that he hath done ſhall be forgotten, and in the Sin which he doth he ſhall ſure<g ref="char:EOLhyphen"/>ly dye the Death.</hi>
+            </p>
+            <p>And ſo I'le leave <hi>John Cotton</hi> and <hi>John Wheel wright</hi> and o<g ref="char:EOLhyphen"/>thers to that of God in their Conſciences, if any of them be in the Body, as for them that are out of the Body, they are gone to their long Home.</p>
+            <p>And ſo you Profeſſors of <hi>New-England,</hi> who are not yet wholely blind, may ſee what your Prieſts, Rulers and Church-members have banded themſelves againſt for this Thirty or Forty Years.</p>
+            <p>Even againſt God, who is a Spirit, and who is Light in all his Appearances, in either Son or Daughter, before ever a <hi>Quaker</hi> came amongſt you<hi>:</hi> So the God of Heaven and Earth is clear of all your Blood, having raiſed up Teſtimony after Teſtimony, even ever ſince you ſet up your Inventions, and denyed the Light.</p>
+            <p>The next Piece of Wickedneſs I am to mind you of, is your barbarous Action committed againſt <hi>Ann Hutchinſon,</hi> whom you firſt impriſoned, then baniſhed and ſo expoſed her to that deſolate Condition, that ſhe fell into the Hands of the <hi>Indians</hi> who murdered her with her Family except one Child, and af<g ref="char:EOLhyphen"/>ter that made a notorious Lye on the deſtroyed Woman, the which one of their Prieſts put in Print, and another of that Tribe, <hi>Samu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Clark</hi> Prieſt of <hi>London,</hi> taking the Lye out of his Brother <hi>Wells</hi> his ſhort Story, and muſt needs put it into his Book called, <hi>God's Judgments againſt Hereſie,</hi> in which he alſo ſcandalized <hi>Mary Dyer</hi> and <hi>Midwife Hawkins,</hi> all which were known to be Women of honeſt Lives and Converſations, only proteſted againſt their falſe Church and Worſhips, for which they ſuffered in their Names and Eſtates, and ſome loſt their Lives for their Teſtimony ſake: For <hi>Mary Dyer</hi> they baniſhed and hanged at <hi>Boſton,</hi> for her Teſtimony a<g ref="char:EOLhyphen"/>gainſt them, which ſhe was moved of the Lord to bear a<g ref="char:EOLhyphen"/>mongſt them.</p>
+            <p>But becauſe you Profeſſors have baniſhed, and ſo been a means of deſtroying a Woman and her Family, as before, and
+<pb n="9" facs="tcp:100353:5"/>
+have covered your ſelves by ſaying, <hi>ſhe held about Thirty Monſtrous Heretical Opinions,</hi> but have not that I can find laid down ſo much as One of them, for Indifferent Perſons to judge.</p>
+            <p>So I may do a little of that Work for you and others, by which it may be ſeen what the Ground of your Quarrel was; and I will do it in ſhort, and honeſtly, as I found it in her Let<g ref="char:EOLhyphen"/>ter, to one Mr. <hi>Leveret</hi> as ſhe writ him in her Anſwer to his <hi>1ſt. Moneth</hi> 1646.</p>
+            <p>It ſeems by that Letter which <hi>Leveret</hi> ſent to <hi>Ann Hutchin<g ref="char:EOLhyphen"/>ſon</hi> he termed her <hi>Haughty Jezebel,</hi> and ſaid <hi>ſhe was a Rail<g ref="char:EOLhyphen"/>er and Reviler,</hi> and ſuch like Terms and Names, and yet in the ſame Letter asked her <hi>what was become of the Light, ſhe once ſhined in, in their Parts?</hi>
+            </p>
+            <p>And now <hi>Ann Hutchinſon,</hi> to that Letter of <hi>Leveret</hi>'s, <hi>If it were the True Light, in which you ſay I did once ſhine in, I am ſure the Author thereof, and the Maintainer of it is God, and it ſhall break forth more and more unto the perfect Day, and when I was with you it diſcovered the beſt Light in your ſelf to be Darkneſs, as your ſelf confeſſed to me in your own Parlour.</hi>
+            </p>
+            <p>
+               <hi>And whereas you ſay I ſpeak great ſwelling Words of Vani<g ref="char:EOLhyphen"/>ty, that Scripture is fulfilled in your falſe Teachers, who fol<g ref="char:EOLhyphen"/>low the Way of</hi> Balaam <hi>and</hi> Bozer, <hi>And that Water holds out the Spirit,</hi> John 7. 38, 39. <hi>And Chriſt Jeſus came by this Wa<g ref="char:EOLhyphen"/>ter or Spirit,</hi> Mat. 1. 18. <hi>And hereby we ſhall know the Spi<g ref="char:EOLhyphen"/>rit of Antichriſt, becauſe he confeſſeth not that Jeſus Chriſt is come in the Fleſh. And as to that in</hi> Rev. 12. <hi>which you ſay muſt be meant of</hi> Conſtantine, <hi>and not of Chriſt, being brought forth in the</hi> Gentile <hi>Church, then the Woman that brought forth</hi> Conſtantine <hi>muſt be crowned with Twelve Stars.</hi>
+            </p>
+            <p>
+               <hi>But your Church ſtanding in the City Order, by your own Confeſſion muſt needs be one of thoſe Cities of the Nations, which the L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd hath ſaid ſhould fall,</hi> Rev. 16. 19. <hi>And if what you called Railing or Reviling, were a Truth of God, acted by him through me, then you have called the Spirit of God a Railer and Reviler.</hi> And ſo far <hi>Ann Hutchinſon,</hi> with much more in her
+<pb n="10" facs="tcp:100353:6"/>
+Anſwer to <hi>Leveret</hi>'s Letter of the <hi>1ſt.</hi> Moneth 1646. after they had impriſoned her, and baniſhed her.</p>
+            <p>So Reader if thou haſt an Underſtanding of what the Woman held forth, thou may ſoon conclude what the Thirty Heretical Opinions were, that ſo much enraged <hi>New-England</hi> Profeſſors to impriſon, baniſh, and ſo (in a Senſe) murther her and her Family by the wicked Hands of the <hi>Indians.</hi>
+            </p>
+            <p>But how ſhall theſe People hide their Wickedneſs from the ſimple-hearted, that they ſhould not ſee their Wickedneſs, and cry out againſt their Cruelty? well, I'le ſhew thee honeſt In<g ref="char:EOLhyphen"/>quirer, how they hide themſelves and the Innocent Blood.</p>
+            <p>The Woman before mentioned having been impriſoned and there by the Prieſts and Profeſſors pumpt and ſifted to get ſomething againſt her<g ref="char:punc">▪</g> laying their Snares to entrap her, and having ſo done take their Opportunity when her Husband &amp; Friends were abſent, as it is ſaid, and examined her in the fore-part of the Day, and baniſhed her in the after-part.</p>
+            <p>Notable quick Work! ſo ſhe goes by Water with many o<g ref="char:EOLhyphen"/>thers that perceived they muſt go to Pot next, and providen<g ref="char:EOLhyphen"/>tially fell with <hi>Road-Iſland,</hi> and there they made a Cave or Caves, and in them lived until the cold Winter was paſt, in which time it was known to the Profeſſors, where they were, and that they had bought the Iſland of the <hi>Indians;</hi> and the Profeſſors began to ſtir and endeavour to bring the Iſland with<g ref="char:EOLhyphen"/>in the Compaſs of their Patent, ſo the poor moleſted Woman, it's like let in Fear, and thought ſhe would go far enough from their Reach, ſo going Southward to ſeek a Place to ſettle upon, where ſhe and her Family might live in Quietneſs, fell upon a Piece of Land that was in Controverſie between the <hi>Dutch</hi> and the Natives, and the Natives being in a Heat came upon them, and were the Executioners of what the <hi>New-England</hi> Prieſts, Magiſtrates and Church-Members were an Occaſion of, through their wicked and cruel proceeding, in forcing them to flee from their Rage and Fury.</p>
+            <p>And becauſe I promiſed thee to tell thee honeſt Inquirer, how they hide and cover their Wickedneſs, I'le do it by rehearſing
+<pb n="11" facs="tcp:100353:6"/>
+what Prieſt <hi>Wells</hi> a chief Actor in this matter, printed in his Book entitled <hi>W<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls's ſhort Story</hi> (page 44.) as <hi>Samuel Clark</hi> in his lying Book quotes his Brother <hi>W<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls</hi> for his Author, of this and ſuch like moſt Notorious Lyes, of which he prints thus, <hi>Ann Hutchinſon, Mary Dyer</hi> and <hi>Midwife Hawkins,</hi> ſee <hi>Clark</hi>'s <hi>Examples</hi> page 249. and they have been known to be honeſt Women, and ſuch as were of good Report, and nev<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r accounted either <hi>Witches</hi> or ſuch Perſons, as theſe two Prieſts and Brethren in Wickedneſs would have People be<g ref="char:EOLhyphen"/>lieve, that ſo their Wickedneſs might be undiſcovered.</p>
+            <p>Now here Prieſt <hi>Clark</hi> after he had writ and printed a moſt curſed Lye of <hi>Mary Dyer,</hi> whom they baniſhed and afterward hanged at <hi>Boſton,</hi> as alſo of Midwife <hi>Hawkins:</hi> Saith he, <hi>About the ſame time, and in the ſame place, One Mrs.</hi> Hutchinſon, <hi>who held about Thirty Monſtrous &amp; Heretical Opinions, whereof you have a Catalogue ſet down by the ſame Author,</hi> page 59. <hi>And growing big with Child, and towards the Time of her Labour, at laſt broughtforth Thirty Monſtrous Births, or thereabouts, ſome bigger and ſome leſſer, ſome of one Shape and ſome of ano<g ref="char:EOLhyphen"/>ther, few of any perfect Shape, none of all of humane Shape: This Mrs.</hi> Hutchinſon <hi>was firſt vaniſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by the Magiſtrates of</hi> New-England, <hi>into</hi> Rhoad Iſland <hi>for her Hereſies, out not ſtaying long there, ſhe removed with all her Family, her Daughter and her Children into the</hi> Dutch Plantation <hi>to a Place called</hi> Hell Gate, <hi>where the</hi> Indians <hi>ſet upon them, and ſlew her and her Family, her Daughter and her Daughter's Husband, with all their Chil<g ref="char:EOLhyphen"/>dren ſave only one that eſcaped.</hi>
+            </p>
+            <p>So here is the Prieſts and Profeſſors Cover, and they wipe their Mouths, and I warrant they would by ſaying the <hi>Indians</hi> committed this Murder be thought clear of this Innocent Blood.</p>
+            <p>So Reader thou mayeſt ſee the Rage and Envy of this pro<g ref="char:EOLhyphen"/>feſſing Generation, for they baniſhed, impriſoned this ten<g ref="char:EOLhyphen"/>derly bred Woman in or towards Winter, and what with Fears and Teſſings to and fro the Woman miſcaried, upon which they grounded their abominable Untruth; many Wit<g ref="char:EOLhyphen"/>neſſes might be produced to prove this, and to diſprove their
+<pb n="12" facs="tcp:100353:7"/>
+abominable frequently told Slanders, and alſo printed by Prieſts and <hi>New-England</hi> Profeſſors, and their Conſederates here in <hi>England.</hi>
+            </p>
+            <p>I might i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſert that other Story which the ſame Lye makers made of <hi>Mary Dyer,</hi> and Midwife <hi>Hawkins,</hi> but it's not worth while, as to his Deſcription of a horrid Monſter, where<g ref="char:EOLhyphen"/>in their Lyes were apparent to many ſober People.</p>
+            <p>And now let me mind you of your abominable Wickedneſs committed by whipping <hi>Obadi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Holems</hi> the Baptiſt with forty Stripes ſave one, it ſeems the old Father of all Whippers about Religion, loads his whipping Children in one Way, and ſets them their deceitful Bounds, and may be he and they his Children may bring Scripture and Example for Forty Stripes ſave one.</p>
+            <p>But why would you not diſpute the Point with <hi>Obadiah,</hi> when he ſo fairly offered it at your torturing Place, and the man you may remember brought his Bible to your Whip<g ref="char:EOLhyphen"/>ping Poſt to prove his Principle and Practice by Scripture, and diſprove your Principles and Practices by the ſame; but your Godly Magiſtrate, as you called him, told him that was no Place to diſpute in, or Words to that purpoſe, and ſo you whipt him in cruel manner forty Stripes ſave one: And his Fellow that was with him an aged honeſt man, you whipt al<g ref="char:EOLhyphen"/>ſo in cruel manner, and would have whipt <hi>Clark</hi> as you ſaid, had you not had Money given you: But where did you learn in Law or Goſpel to take Money for not whipping them that deſerved Whipping? Behold your baſe Dunghil Spirits in which you act!</p>
+            <p>And you may remember, that when one of your own Mem<g ref="char:EOLhyphen"/>bers or Brethren, though not in Cruelty, namely <hi>John Spur,</hi> beheld your Barbarous proceedings, and the man's then Chri<g ref="char:EOLhyphen"/>ſtian like Deportment under the Tyranny of your Tormenter, who in violent manner in the Face of the People, after your <hi>Jezabel. Lecture</hi> at <hi>Boſton,</hi> gave him Forty Stripes ſave one upon his naked Body, the which <hi>John Spur</hi> beholding, was moved with Pity, and in the Brokenneſs and Tenderneſs of his Heart could do no leſs then take the man by the Hand, and gave thanks in the Man's behalf to God, who had carried him
+<pb n="13" facs="tcp:100353:7"/>
+through ſo great an Exerciſe, with ſo much Joy and Patience, for which <hi>John Spur</hi> was ſent for to your Seat of the Whore and Beaſt at <hi>Boſton,</hi> and there was ſined for giving Thanks to God, as aforeſaid, the Sum of Forty Shillings; and this was for taking the Man by the Hand, and giving Thanks to God, after he had been whipt Forty Stripes ſave one.</p>
+            <p>So all People may ſee what blind Zeal will hurry Profeſſors on to do, drink Blood, and deſire to drink more and more, and thirſt more and more after Blood, as will in time be ma<g ref="char:EOLhyphen"/>nifeſt to all ſober People. Oh drunken Profeſſors and Talkers of God Chriſt and Ordinances! but poſſeſs nothing but Cruel<g ref="char:EOLhyphen"/>ty and Deceit. How are you made drunk with the Cup of Abomination? What more abominable, then for men to rent and tear the Fleſh off the Backs of Men and Women like Dogs, and all about Religion, and yet ſay no infallible <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirit to be known now adays, ſo then they themſelves may be wrong as well as any.</p>
+            <p>Oh how have theſe Profeſſors like Dragons ſmote with Head and Tail (the falſe Hireling Prieſts, the Head, and the Earthly Power the Tail) at all Appearances of God ever ſince they uſurped Authority, never given nor granted them by God nor man, witneſs their Pattent given them by the King; re<g ref="char:EOLhyphen"/>pugnant to ſuch Cruel Proceedings againſt tender Conſcien<g ref="char:EOLhyphen"/>ces And how have you vented your Folly, and made your Mad<g ref="char:EOLhyphen"/>neſs manifeſt, by your baſe reproachful Language, commonly vented like Floods after them that could not ſubmit to your Bundle of will-Worſhip, calling that good Iſland which took up, as I may ſay, your Baniſhed, and yielded to them through the Bleſſing of God its Increaſe, which you commonly would call it, <hi>Rogues Iſland,</hi> and in my Hearing ſome of your Members commonly would ſay that <hi>none but Whores and Rogues went thither;</hi> A baſe envious Term and Name, by which the Ran<g ref="char:EOLhyphen"/>cor of your Spirits doth appear to all ſober People.</p>
+            <p>Oh the exceeding Cruelty that appears in your Hearts, and becauſe I would have you ſenſible of your own Iniquity and mourn under it, I may ſet one thing more before you in order, and that is this.</p>
+            <p>
+               <pb n="14" facs="tcp:100353:8"/>
+When, or ſoon after you had made your Decree, that <hi>none ſhould be received to inhabit within your Juriſdict<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, but ſuch as ſhould be allowed by ſome of the Magiſtrates,</hi> thinking thereby to keep up your invented B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilding, and <hi>Babyloniſh</hi> Tower of Will worſhip<hi>:</hi> And how bountifully hath the Lord handed forth to you, by raiſing up Teſtimony after Teſtimony againſt all your unequal Proceedings, and I may here rehearſe one before named, (viz.) <hi>John Wheelwright.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Saith he, <hi>This Law doth leave theſe weighty matters of the Commonw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alth of receiving or rejecting ſuch as come over to the Approbation of Magiſtrates, and ſuſpend thoſe things to the Judgement of Man, whereas the Judgement is God's,</hi> Deut. 1. 17. <hi>This is made a Ground-work of groſs Popery, Prieſts and Magiſtrates are to judge, but it muſt be according to God's Law,</hi> Deut. 17. 9, 10, 11. <hi>That Law which gives that (without Li<g ref="char:EOLhyphen"/>mitation) which is proper to God cannot be juſt.</hi>
+            </p>
+            <p>
+               <hi>Secondly, Becauſe here is Liberty given by this Law to expel and reject thoſe which are moſt Eminent Chriſtians, if they ſuite not with the Diſpoſition of the Magiſtrates, whereby it will come to paſs, that Chriſt and his Members will find worſe Entertain<g ref="char:EOLhyphen"/>ment amongſt us, then</hi> Abraham <hi>and</hi> Iſaac <hi>did amongſt the</hi> Phi<g ref="char:EOLhyphen"/>liſtines, <hi>then</hi> Jacob <hi>amongſt the</hi> Sechemites, <hi>then L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t amongſt the</hi> Sodomites, <hi>then the</hi> Iſraelites <hi>amongſt the</hi> Egyptians; <hi>Theſe all gave leave to God's People to ſit down amongſt them, though (they) could not claim Right as the King's Subjects may now—That Law, the Execution whereof may make us more cru<g ref="char:EOLhyphen"/>el and tyrannical over God's Children then</hi> Pagans <hi>and</hi> Sodo<g ref="char:EOLhyphen"/>mites, <hi>therefore it muſt needs be moſt wicked and ſinful.</hi>
+            </p>
+            <p>Thirdly, <hi>This Law doth croſs many Laws of Chriſt, Chriſt would have us to render unto</hi> Caeſar <hi>the things that are</hi> Caeſar<hi>'s,</hi> Mat. 12. 11. <hi>but this Law will not give unto the King's Majeſty his Right of planting ſome of his Subjects amongſt us except they pleaſe them.</hi>
+            </p>
+            <p>
+               <hi>Chriſt bids us not to forget to entertain Strangers,</hi> Heb. 13. 2. <hi>But by this Law we muſt not entertain for any continuance of time ſuch Strangers as the Magiſtrates like not, though they be never ſo gracious, allowed of by God and Good Men, except we</hi>
+               <pb n="15" facs="tcp:100353:8"/>
+               <hi>will forfeit them our whole Eſtates, it may be and much more then our Eſtates come unto.</hi>
+            </p>
+            <p>Fourthly, <hi>Chriſt commands us to do good unto all, but eſpecially un<g ref="char:EOLunhyphen"/>to them of the Houſhold of Faith.</hi> Gal. 6. 10. <hi>this Law gives Liber<g ref="char:EOLhyphen"/>ty to do hurt unto all, eſpecially unto them of the Houſhold of Faith. Many other Laws there are of Chriſt,</hi> ſaith Wheelwright, <hi>which this Law daſheth againſt, and therefore is moſt wicked and ſinful.</hi> And ſo far <hi>John Wheelwright</hi> in his Teſtimony againſt your Law or ungodly Decree, which Sayings of his are come to paſs, and you have exceeded <hi>Philiſtines, Egyptians</hi> and <hi>Sodomites,</hi> ſo it may be truly ſaid who is like unto you, Prieſts, Magiſtrates and Pro<g ref="char:EOLhyphen"/>feſſors of <hi>New-England,</hi> in Cruelty, Boldneſs and Preſumption?</p>
+            <p>Oh that you would be ſtirred up to ſearch what the matter is that the Lord is ſo diſpleaſed with you! it ſeems to me and many more, he is making you an Example to many Nations, &amp; I hope, and do believe it will be for good to many in theſe Kingdoms of <hi>England, Scotland, Ireland</hi> and <hi>Holland,</hi> with all their Territories, when they ſhall hear, behold and con<g ref="char:EOLhyphen"/>ſider what the Lord is doing<g ref="char:punc">▪</g> and ſuffering to come to paſs upon a People that made a great ſhew, and a great talk of God, Chriſt and Ordinances, but in the very time of this great talk and profeſſion, brought forth more Oppreſſion then <hi>Egypt</hi> and <hi>Sodom,</hi> and have indeed done worſe then all the Nations round about, and therefore thou muſt drink of the Cup of terrible Amazement and Aſtoniſhment, poured out by a Juſt Hand, as from God upon thy Inhabitauts, Oh <hi>New-England!</hi>
+            </p>
+            <p>And the Lord God grant for his Mercy ſake, that the Inha<g ref="char:EOLhyphen"/>bitants of our poor Lands of <hi>England, Scotland</hi> and <hi>Ireland,</hi> may be warned, that ſo they may no longer follow your per<g ref="char:EOLhyphen"/>nicious Ways, and bring like puniſhment upon themſelves as you, oh people of <hi>New-England</hi> have done, by provoking a Longſuffering God, who hath indeed born long your unrigh<g ref="char:EOLhyphen"/>teous Ways and Doings.</p>
+            <p>Oh how hath the Father and Author of all Perſecution about Religion, and your deceitful Hearts fitted you for a Day of Slaughter! How are your young, as well as your old men be<g ref="char:EOLhyphen"/>come a Scorn and Deriſion in Cities and Countries! and are
+<pb n="16" facs="tcp:100353:9"/>
+not the Fruits of the corrupt Tree found among you? Is not Drunkenneſs, Gaming, Cheating and Cozening found among you, that it's even become a By Word, <hi>There is a</hi> New Eng<g ref="char:EOLhyphen"/>land <hi>Cheat, take heed of a</hi> New-England <hi>Cheat.</hi>
+            </p>
+            <p>And how aſhamed are your prophane and Profeſſors, to hear one tell them of their and your pranks! they cannot en<g ref="char:EOLhyphen"/>dure to be told of your Laws; to whip, baniſh, cut off Ears, ſpoil Goods and hang at laſt, Diſſenters from them in Religi<g ref="char:EOLhyphen"/>on, while themſelves ſay it's <hi>a great and damnable Hereſie to hold Infallibility in the things of God,</hi> and that <hi>a man muſt prove his Just<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fication by his Sanct<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fication,</hi> and that <hi>there are Delu<g ref="char:EOLhyphen"/>ſions in the Witneſs of the Spirit, and Sanctification muſt be the Judge of the Witneſs of the Spirit;</hi> and that <hi>the Seal of the spirit is not the holy Ghoſt in us, and the Witneſs of the spirit is only mediate, and not immediate;</hi> and to ſay that <hi>Chriſt is our ſan<g ref="char:EOLhyphen"/>ctification, is a damnable Doctrine.</hi>
+            </p>
+            <p>And do you not ſay, that <hi>God b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und himſelf in an everla<g ref="char:EOLhyphen"/>ſting Covenant of Grace to the legi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>timate Seed of them that be in Church-covenant, and that Children are left under an ever<g ref="char:EOLhyphen"/>laſting Covenant, by leaving them under Church covenant; and that there is a running over of Grace from the Father to the Chil<g ref="char:EOLhyphen"/>dren in the Way of Church covenant; and that Children by Church covenant, are born in an Eternal Covenant.</hi> See the Elders Tenent in the Bay, with much more confuſed Stuff too long to write o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> read unleſs it were better.</p>
+            <p>But admit all this were as true, as it is falſe and blaſphemous, would any ſober Man or Woman think this to belong or ap<g ref="char:EOLhyphen"/>pertain to that whipping Church, and Church-members of <hi>New-England?</hi>
+            </p>
+            <p>Let them lay aſide their long Prayers, and then tell me what is left among them, that will either enchant the Eye or Ear of any ſober Man? for are they not as Earthly minded, as Proud ſpirited as any, as Envious as any, and yet would be accounted the Members of the Church of Chriſt.</p>
+            <p>Oh how are you yet pulling down as with a Cart<g ref="char:punc">▪</g>Rope the Judgement begun in your Land and Country! witneſs your new-found ways to torture and tear like Dogs the Fleſh of the
+<pb n="17" facs="tcp:100353:9"/>
+Conſcientious, who are clear of your Calamities, in the Sight of God, though it may be ſome of their Earthly Houſes may fall, by the Hands of the barbarous <hi>Indians,</hi> as many have fal<g ref="char:EOLhyphen"/>len by the Hands of barbarous <hi>Profeſſors;</hi> but I ſay, they are clear of thoſe Calamities, and not at all engaged in your Quarrels which you have brought upon your ſelves, through your Pride and unequal Dealing with Diſſenters in matters of Religion, and by your treacherous Practices toward the <hi>Indi<g ref="char:EOLhyphen"/>ans,</hi> all which crieth very loud for Vengeance, however you may think to hide your ſelves with Flattering Printed Papers, yet your Filthineſs doth appear and cannot be hid.</p>
+            <p>And you have now found out a new way to torture the Con<g ref="char:EOLhyphen"/>ſcientious People (viz.) <hi>your Gantelop and Whip,</hi> with which you whip an Hundred Stripes. Oh how are you grown in Cruelty! from forty Stripes ſave one, and two Pounds Fine, to an hun<g ref="char:EOLhyphen"/>dred Stripes, and five Pounds Fine, and this with your old Laws new revived, you have got up at <hi>Boſton</hi> to torture thoſe that are no ways engaged in your Quarrel (as I ſaid before) and puniſhmen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s which God hath certainly brought upon you, for all your Abominations.</p>
+            <p>But through and over all the Cruelty of your Gantelop the Lord hath born a little one, and though you had Power to hale this mortal Body through your many whipping profeſſors and prophane, yet the Teſtimony lives <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver all, and is a ſweet Savour unto God, to whom be praiſes forever, and evermore,</p>
+            <p>And I hope all that fear the Lord, both ſmall and great will be found in the ſame Teſtimony, and to it ſtand to the praiſe and glory of God, who is now requiring at your Hands the Blood of his innocent Servants and Martyrs, ſlain by that mur<g ref="char:EOLhyphen"/>dering <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirit, which in <hi>Perſecutors</hi> hath lived, reigned and acted, from the Day of righteous <hi>Abel,</hi> unto this Day.</p>
+            <p>And now you would pick a new Quarrel with the <hi>Quaker<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and ſay, <hi>They ſet their Poſts by God's Poſts, and their Threſ: holds to God's Threſholds,</hi> and you are troubled that <hi>man ſhould joyn his Poſts to God's Poſts, and his Threſholds to God's Threſ<g ref="char:EOLhyphen"/>holds, and that in the open Meetings of the</hi> Quakers, <hi>whoſe damnable Dectrines and Blaſphemies provoke divine Jealouſie.</hi>
+            </p>
+            <p>
+               <pb n="18" facs="tcp:100353:10"/>
+But you have not t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld us what thoſe pernicious Tenents are that are preached in the <hi>Quakers</hi> Meetings, no more then you did of <hi>Ann Hutchinſon</hi> whom you baniſh'd for her Teſtimony, as hath been hinted.</p>
+            <p>But to whom ſhould man joyn his <hi>Poſts and Threſholds,</hi> if he have any to joyn, as you ſay ye have? I hope none will be ſo blind and ignorant as to ſet their Poſts or Threſhold to the Devil's Poſt, and the Profeſſors of <hi>New-England's</hi> Poſts, viz. their whipping Poſt or Gallows Poſts, no nor yet joyn their Threſhold to t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir Goal Threſholds, nor their Bridwel. Threſhold, deviliſh ſlaughter houſe Threſholds, over which, and in which, Profeſſors and Talkers of God and Chriſt do and have haled over Lambs and Followers of Chriſt, and in which they crop their Ears, and out of which they bring them in their Wills and Madneſs, and baniſh, whip and hang them in their blind Zeal.</p>
+            <p>And you can take God's Poſts which he through the Ope<g ref="char:EOLhyphen"/>ration of his Everlaſting and Eternal Spirit hath fitted and pre<g ref="char:EOLhyphen"/>pared for his holy Building, and hang them upon the Devil's Poſts (viz.) your Gallows poſts, and ſet them to your whip<g ref="char:EOLhyphen"/>ping-poſts, and ſport your ſelves with tearing and rending their naked Backs, and Arms, and tender Breaſts of Men and Women with forty Stripes ſave one, and ſometimes an hun<g ref="char:EOLhyphen"/>dred. Oh bloody Butchers of Profeſſors! how do you ſtinck of Blood, of Innocent Blood. And now after, and for all theſe Abominations which you have committed againſt the Lord God, and his Appearance in his Sons and Daughters, Servants and Handmaids, upon whom he hath in theſe later Dayes poured out of his Spirit, according to the Scriptures and the Promiſe of God, and that upon ſome amongſt your ſelves, which called to you to mind the Light and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirit, and its Teaching, and alſo cried out againſt your Idolatrous Practi<g ref="char:EOLhyphen"/>ces, and confuſed Principles; and againſt your ſmiting Spi<g ref="char:EOLhyphen"/>rits, and that before that reproachful Name of <hi>Quaker</hi> got up, all which you have evilly intreated, baniſhing ſome, and whip<g ref="char:EOLhyphen"/>ping others, before the <hi>Quakers</hi> were ſent from God to call you to Repentance, and Amendment of Life, that you might
+<pb n="19" facs="tcp:100353:10"/>
+not dye in your Sins, but theſe you moſt Evilly Intreated.</p>
+            <p>And now the Lord for his own Elect's Sake is riſen to take Vengeance, and make Inquiry after Innocent Blood, which your proud and earthly Hearts have drunk in, and was hid through Deceit.</p>
+            <p>And the Lord God is making you, as I may ſay, as a Sign to many Nations, that ſhall coolly, and ſeriouſly hear and conſider what you have profeſſed, and what brought forth; and now you would fain hide your ſelves a little longer, and ſay, <hi>The</hi> Quaker <hi>is the chief Cauſe of our Miſery, and he joyns his Threſholds to G<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d's Threſholds, and his Poſts to God's Poſts, and that in the open Meetings of the</hi> Quakers, <hi>whoſe blaſphemous Principles, &amp;c.</hi>
+            </p>
+            <p>But ye have not printed their Principles that ye call <hi>ſo provo<g ref="char:EOLhyphen"/>king Divine Jealouſie,</hi> no more then you printed <hi>Williams</hi> his Principles whom you baniſhed, nor yet <hi>John Wheelwright</hi>'s Principles, which ſet the Prieſts and Profeſſors in <hi>New-Eng<g ref="char:EOLhyphen"/>land</hi> in an Uproar in the Year One Thouſand Six Hundred Thirty Six.</p>
+            <p>But <hi>John Wheelwright</hi> ſpoke many things which are now come to paſs; and alſo bore Teſtimony to the Light. Read part of his Sermon preached at <hi>Boſton,</hi> which provoked Jea<g ref="char:EOLhyphen"/>louſie, but not Divine, but Deviliſh Jealouſie.</p>
+            <p>And in his third Uſe in that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ermon, did he n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſay, <hi>The ſecond Sort of People that were to be condemned, are all ſuch, as do ſet themſelves againſt the Lord Jeſus Chriſt, ſuch are the greateſt Enemies to the State as can be, if they can have their Wills, you ſee what a lamentable State, both Church and Com<g ref="char:EOLhyphen"/>monwealth will be in, then we ſhall have need of mourning, the Lord cannot endure theſe that are Enemies to himſelf, and King<g ref="char:EOLhyphen"/>dom, and People, and unto the Good of his Church; ſuch ſhall never be able to prevail againſt the Lord. What will be the End and Iſ<g ref="char:EOLhyphen"/>ſue think you, if People do ſet themſelves againſt the Way of Grace and the Lord Jeſus Chriſt? This will be the Iſſue of it, thoſe that oppoſe the Ways of Grace, and reſiſt the Truth, they ſhall</hi> wax worſe and worſe, 2 <hi>Tim.</hi> 3. 8. <hi>they may happily proceed a great Way, but the time ſhall come that they ſhall go no further, and by</hi>
+               <pb n="20" facs="tcp:100353:11"/>
+               <hi>Reaſon of the Agitation of things it will come to paſs, that the Church will be cleared, and your Folly manifeſted unto all men, ſo ſaith the Apoſtle,</hi> It is a hard thing to kick againſt the Pricks, <hi>Acts</hi> 9. 5. <hi>Who ever ſtrove againſt God and proſpered? If men or women fall upon the Lord Jeſus Chriſt they break, but if the Lord Jeſus Chriſt fall on them he will grind them to Powder: If any fall upon Chriſt, and will not let Chriſt alone, but fall upon them which hold him, and will abuſe them, and be buffeting the Lord Jeſus Chriſt, there is never a Stroke they give, but makes Wounds in their Conſciences, but if they will be heaving out Chriſt, they ſhall find it the heavieſt Stone that ever was; it will fall and grind them to Powder, if People ſet themſelves a<g ref="char:EOLhyphen"/>gainſt the Lord, and the Ways of Grace, and his Truth this will be the Iſſue of it on their Part; either thoſe that ſet themſelves againſt the Ways of God, they will be put to ſilence by the Light that cometh from Chriſt; for ſuch Truths come with ſuch Light and Power that they ſhall be ſo convinced, as that they ſhall not be able to ſpeak any more in the Caſe, as Chriſt put down thoſe that came againſt him, ſo that they durſt ask him no more Que<g ref="char:EOLhyphen"/>ſtions; and ſo there cometh ſuch a Power from the Word held forth by the Saints of God, that it will ſtrick a Fear into their Hearts that oppoſe it: What aileſt thou O</hi> Jordan <hi>that the Floods go back! Tremble thou Earth at the Preſence of the Lord. They that came to Chriſt fell back, there cometh a divine Power from the Lord that turneth them all back; the Lord will ſtrick with Trembling thoſe that come againſt</hi> Jeruſalem; <hi>or if they be not put to ſilence, it will come to paſs in time, they will fall i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>to a wonderful Strong Paſſion, and will quarrel with the Saints of God. It was the Caſe of</hi> Zedekiah <hi>with</hi> Michaiah, <hi>the Que<g ref="char:EOLhyphen"/>ſtion was, which of them had the Spirit of God, and he comes and ſmites the Prophet</hi> Michaiah <hi>on the Cheek, but the Spirit of God is not a ſmiting Spirit.</hi> Stephen <hi>convinced the</hi> Jews, <hi>and did by the Power of the holy Ghoſt Evidence his Cauſe to be the Cauſe of God, and they were not able to reſiſt the Spirit by which he ſpake and they came and run upon him, why do ye reſiſt the holy Ghoſt (ſaith he) what maketh the Sin againſt the holy Ghoſt, but En<g ref="char:EOLhyphen"/>lightning, and ſetting themſelves againſt the way of Truth, and</hi>
+               <pb n="21" facs="tcp:100353:11"/>
+               <hi>perſecuting it in Malice and Wrath.</hi> It is a fearfull thing to fall into the Hands of the Living God. <hi>Heb.</hi> 10. 31. For our God is a conſuming Fire, <hi>Let every one (in the Fear of God) have a Care how they ſet themſelves againſt the Truth, and Ways of God, and the Ways of Jeſus Chriſt; for we muſt all appear be<g ref="char:EOLhyphen"/>fore the Judgement Seat of Chriſt,</hi> 2 Cor. 5. 10.</p>
+            <p>Thus much of the Sermon preached by <hi>John Wheelwright,</hi> in the Year 1636.</p>
+            <p>By which you Profeſſors of <hi>New England</hi> may ſee how prophetical he ſpake of what is come to paſs and fulfilled on you, as he ſaid, <hi>If People did ſet themſelves to Oppoſe and Re<g ref="char:EOLhyphen"/>ſiſt the Grace of God, and his Way and Truth</hi> (as you have done) <hi>ſuch ſhall wax worſe and worſe.</hi> And are you not more and more enraged, and crying out Blaſphemy and Hereſie? but have not given Account what thoſe <hi>Blaſphemous and Here<g ref="char:EOLhyphen"/>tical Principles</hi> are, againſt which you have ſet your ſelves this Thirty or Forty Years. And why did you not print <hi>Obadiah Horne</hi>'s Principles, to whom you gave Forty Stripes ſave one, and his Fellow-Sufferer's Principles, whom you alſo whipped in a Cruel Manner? So it ſeems all muſt fare alike that ſute not with your Will-worſhip. But now of late you have printed againſt the <hi>Quakers,</hi> but give no Account either what they ſay, do or hold, which ſeems to me to be very brutiſh, and below common Civility or Manhood: You ſee, I do not ſo by you; but plainly tell, what you ſay, do and hold, and may en<g ref="char:EOLhyphen"/>large upon all, if I have been too ſcant in my Account, nei<g ref="char:EOLhyphen"/>ther indeed would I be willing to be otherwiſe dealt with in ſuch a Caſe.</p>
+            <p>What! are you ſo Mad-drunk with Blood, that ye care not either what you do, ſay, or print? You have no need to make your ſelves more naked.</p>
+            <p>Could not your Secretary <hi>Rawſen,</hi> which hath partaken with you in your Wickedneſs and Folly, and has had a large ſcope of Blood with you, adviſed you better then to put in print ſuch a piece of Folly? Why did you not ſet him to work, and print the <hi>Quakers Abominable bl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſphemies and Idolatries,</hi> as you call them, that ſo all People might have judged of the
+<pb n="22" facs="tcp:100353:12"/>
+Matters, or elſe kept his printed Piece in <hi>New-England?</hi> for People here in <hi>England,</hi> even many Prophane Ones, and much more ſober Men and Women, know the <hi>Quakers</hi> Principles and Converſation alſo, and are not willing to cloſe their Eyes, as Profeſſors in <hi>New-England</hi> have, and here in <hi>England</hi> l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kewiſe many Profeſſors do.</p>
+            <p>Its well known <hi>Rawſon</hi> hath Envy enough in his Heart to lay open <hi>Quakers</hi> Faults, if he could find ſuch great ones; but may be he intends to wrap the Lambs in Wolves Skins, like one of their Prieſts, who was talking of the <hi>Quakers,</hi> and was asked, <hi>Why they ſhould ſuffer ſo deeply,</hi> or the like, <hi>ſeeing no Evil Thing was proved againſt them? Why</hi> (ſaid the Prieſt, or words to that purpoſe) <hi>in caſe you have a Wolf in your Trap, but may be canno<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prove he killed a Lamb, or the like, but he is a Wolf, and of ſuch a Nature as will do Miſchief; ſo he muſt not go, and the</hi> Quaker <hi>muſt ſuffer though nothing can be proved a<g ref="char:EOLhyphen"/>gainſt him o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them, but in the Trap he is.</hi> And may be that is the Matter that you go aboard S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ips, and Rifle the <hi>Quakers,</hi> and then ca<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry them into Priſon, and l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck them up, may be when they have been long toſſed upon the Sea, and would gladly enjoy a little freſh A<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and Victuals.</p>
+            <p>Well, the Lord God, againſt whom you have done Evil, above what can be ſaid or written with Tongue or Pen of man, open your Blind Eyes; yea, if you could come to him who is the Light and Life of all Good Men and Women; he, I ſay, would anoint your Eyes, that the God of this Wicked World, to wit, the Devil, hath blinded, and then would you ſee as you are ſeen, and be h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbled before the Lord God of Ever<g ref="char:EOLhyphen"/>laſting Pity, which hath no Pleaſure in him that dyes, who indeed would have all return and live. A Remnant there is that know, he is a very Pitiful God, and a Gracious God, a Sin-pardoning God, a God that blots out Iniquity as its turn<g ref="char:EOLhyphen"/>ed from; therefore turn ye all People to the Light; for God is Light, and his Son is Light; ſo love the Light, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e love God and his Son, who is come a Light into the World, that whoſoever believes in him and follows him, ſhould not abide in Darkneſs, nor Envy, nor Anger, nor Wrath, nor Malice,
+<pb n="23" facs="tcp:100353:12"/>
+but come to Love, which (thinks, muchleſs) does no Evil to any man; and ſo, live in God, who is Love: but firſt they muſt come out of the Devil, who was, is, and ever will be a Murderer of Mankind, both Soul and Body, without they turn from him, and deny his wicked Spirit; and indeed, the Fruits of his ſpirit are manifeſt, which are Anger, Wrath, Whiſ<g ref="char:EOLhyphen"/>perings, Evil-ſurmiſings, &amp;c. which being lived in, grow to Baniſhings, Whippings, Cutting off Ears, Hanging and Mur<g ref="char:EOLhyphen"/>dering about Religion, and what not that is Aboninable; and againſt ſuch Wickedneſs there is a Law of God and Man: But the Fruits of God's Holy Spirit are Quietneſs, Meekneſs, Lowlineſs, Temperance, Brotherly-kindneſs, Merciful as God is Merciful, againſt ſuch there is no Law; for all Law is for ſuch, I mean, not all mens Laws or Decrees which are made againſt the Innocent; but all Good, Juſt and Equal Laws, are not againſt, but for, all ſuch as truly Fear the Lord, and work Righteouſneſs, and abide in him, who is the Author of all Good, to whom be Praiſe forever, <hi>Amen.</hi>
+            </p>
+            <p>Reader, be not troubled that I uſe the word <hi>Profeſſor</hi> ſo of<g ref="char:EOLhyphen"/>ten, for it very often riſeth in me ſo; and I mean, ſuch as pro<g ref="char:EOLhyphen"/>feſs God, Chriſt and Scriptures, and Ordinances of the Go<g ref="char:EOLhyphen"/>ſpel, but live in another Spirit, and them are the <hi>Profeſſors</hi> meant: but ſuch as poſſeſs, and then profeſs, what, and no more then they do poſſeſs, ſuch <hi>Profeſſors</hi> my Soul loves, and the Lord my God loves, and will love for evermore.</p>
+         </div>
+         <div type="tenets">
+            <p>
+               <pb n="24" facs="tcp:100353:13"/>
+               <hi>ANd now I may ſet down ſome</hi> Tenents, <hi>which I found written in a Book called,</hi> The Elders Tenents in the Bay. <hi>So if they be your</hi> Tenents, <hi>ye Elders of</hi> New-England, <hi>conſider of them (for ſome of them appear very unſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und) if they be not, then diſown them, and let's have it under your Hands; or if you will own part, then let's know which part, and how many; they are numbred from One to Forty Six: Thoſe of them which I am moſt diſſatisfied in are thus noted ☞ on the Margin.</hi>
+            </p>
+            <p n="1">
+               <hi>Tenent</hi> 1. The Promiſes of Grace are Conditio<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and no Promiſe is abſolute, but h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Conditions, either expreſſed or implyed, in the Right of which Condition the Promiſe is performed, and ſo by us to be pleaded.</p>
+            <p n="2">
+               <hi>II.</hi> There are ſaving Preparations before Union with Chriſt.</p>
+            <p n="3">
+               <hi>III.</hi> The Law ſubdues the Will, and we may too much cleave to the Goſpel.</p>
+            <p n="4">
+               <hi>IV.</hi> Faith is firſt given to the Soul before Chriſt.</p>
+            <p n="5">
+               <hi>V.</hi> We are Co-Workers with Chriſt in our firſt U<g ref="char:EOLhyphen"/>nion.</p>
+            <p n="6">
+               <hi>VI.</hi> Sanctification is the firſt Evidence of our Ju<g ref="char:EOLhyphen"/>ſtification.</p>
+            <p n="7">
+               <note place="margin">☞</note>
+               <hi>VII.</hi> Faith is alwayes confirmed by Signs and Pro<g ref="char:EOLhyphen"/>miſes, and not by Spiritual Manifeſtations. </p>
+            <p n="8">
+               <hi>VIII.</hi> Sanct fication is more plain and perſpicuous then the Witneſs of the Spirit.</p>
+            <p n="9">
+               <pb n="25" facs="tcp:100353:13"/>
+               <note place="margin">☞</note>
+               <hi>IX.</hi> There are Deluſions in the Witneſs of the Spi<g ref="char:EOLhyphen"/>rit. </p>
+            <p n="10">
+               <hi>X.</hi> Sanctification muſt be the Judge of the Witneſs of the Spirit.</p>
+            <p n="11">
+               <note place="margin">☞</note>
+               <hi>XI.</hi> The Witneſs of the Spirit is only Mediate, and not Immediate.</p>
+            <p n="12">
+               <note place="margin">☞</note>
+               <hi>XII.</hi> The Nature of Man is not capable of Imme<g ref="char:EOLhyphen"/>diate Viſion or Spiritual Manifeſtation.</p>
+            <p n="13">
+               <note place="margin">☞</note>
+               <hi>XIII.</hi> The Seal of the Spirit is not the Holy Ghoſt in us, but the gracious Operations of the Spirit.</p>
+            <p n="14">
+               <note place="margin">☞</note>
+               <hi>XIV.</hi> To ſay that Chriſt is our Sanctification, is a Damnable Doctrine.</p>
+            <p n="15">
+               <note place="margin">☞</note>
+               <hi>XV.</hi> God hath tyed himſelf in an Everlaſting Co<g ref="char:EOLhyphen"/>venant of Grace to the Legitimate Seed of them that be in Church-Covenant, 1 <hi>Cor.</hi> 7. 14. <hi>Acts</hi> 2. 39.</p>
+            <p n="16">
+               <note place="margin">☞</note>
+               <hi>XVI.</hi> Children are left under an Everlaſting Co<g ref="char:EOLhyphen"/>venant by leaving them under Church-Covenant.</p>
+            <p n="17">
+               <note place="margin">☞</note>
+               <hi>XVII.</hi> Children are left under a Covenant of Faith, by leaving them under a Church-Covenant.</p>
+            <p n="18">
+               <note place="margin">☞</note>
+               <hi>XVIII.</hi> Church-covenant reaches to a Thouſand Generations.</p>
+            <p n="19">
+               <note place="margin">☞</note>
+               <hi>XIX.</hi> Children by Church-covenant are born in an Internal Covenant, 1 <hi>Kings</hi> 14. 13.</p>
+            <p n="20">
+               <hi>XX John Baptiſt</hi>'s Faith was evident by Leap<g ref="char:EOLhyphen"/>ing in the Womb, <hi>Luke</hi> 1. 44.</p>
+            <p n="21">
+               <hi>XXI.</hi> Children born of Believing Parents have no Right to the Seals by that Covenant your Parents entered into after their Birth.</p>
+            <p n="22">
+               <hi>XXII.</hi> The Legitimate Seed of <hi>Iſrael</hi> were cir<g ref="char:EOLhyphen"/>cumciſed, and none elſe.</p>
+            <p n="23">
+               <pb n="26" facs="tcp:100353:14"/>
+               <note place="margin">☞</note>
+               <hi>XXIII.</hi> There is a running-over of Grace from the Father to the Children in the way of Church-co<g ref="char:EOLhyphen"/>venant.</p>
+            <p n="24">
+               <hi>XXIV.</hi> The Jailer had right by Church-covenant to the Seals, <hi>Acts</hi> 16. 33.</p>
+            <p n="25">
+               <hi>XXV.</hi> Faith the Cond<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of the Covenant is be<g ref="char:EOLhyphen"/>fore Juſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fication.</p>
+            <p n="26">
+               <hi>XXVI.</hi> We are juſtified with reſpect to Works.</p>
+            <p n="27">
+               <note place="margin">☞</note>
+               <hi>XXVII.</hi> The Spirit of God of it ſelf is not a ſuf<g ref="char:EOLhyphen"/>ficient Witneſs, although it reveal to the Soul a ſure Promiſe except it reveal the ſight of ſome Graces.</p>
+            <p n="28">
+               <note place="margin">☞</note>
+               <hi>XXVIII.</hi> One that hath the Evidence of Faith, if he falls into ſome Sin, its not a ſeaſon to look upon his Aſſurance but his Sin for Recovery.</p>
+            <p n="29">
+               <hi>XXIX.</hi> That Faith that juſtifies my Perſon, and will ſerve to believe with, is not ſufficient to come to a Sacrament.</p>
+            <p n="30">
+               <hi>XXX.</hi> That Church-covenant is the ſtaple com<g ref="char:EOLhyphen"/>modity of <hi>New-England,</hi> ſaith Mr. <hi>Ward</hi> of <hi>Salem</hi> or <hi>Ipſwich.</hi>
+            </p>
+            <p n="31">
+               <hi>XXXI.</hi> To diſmiſs a Member of ſuch a Church as holds forth a Covenant of Grace to be abſolute without condition, and the Evidence thereof without reſpect to condition, is ſinful, and the nurſing them up in Sin.</p>
+            <p n="32">
+               <hi>XXXII.</hi> Errors that are ripe to be prayed and fa<g ref="char:EOLhyphen"/>ſted againſt, which tend to the Subverſion of the Goſpel, are not fit to be named, nor the Perſons that hold them.</p>
+            <p n="33">
+               <hi>XXXIII.</hi> To queſtion a Ground of Faith to pray and faſt againſt ſuch Errors, that come under a pretence of Juſtification, to tread down Sanctification; I demand
+<pb n="27" facs="tcp:100353:14"/>
+how one ſhould ſay Amen to a thing doubtful? and to bring thoſe Scriptures, <hi>Mat.</hi> 2. 7, 1 <hi>Cor.</hi> 14. 8. 16. <hi>Rom.</hi> 14. 23. is hideous Blaſphemy.</p>
+            <p n="34">
+               <hi>XXXIV.</hi> A Member dealt withal for an Offence, which is not convinced of the Offence, nor ſufficient Means of Convict on, who was willing to confeſs ſo far as Light was manifeſted, and attend for more Light to conviction, Jeſus Chriſt cenſured not <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h an one for an abſolute Sinner.</p>
+            <p n="35">
+               <hi>XXXV.</hi> A Member under the Admonition of a Church, if they come to the Sacrament, are to be excom<g ref="char:EOLhyphen"/>municated.</p>
+            <p n="36">
+               <hi>XXXVI.</hi> Sanctification in the Nature is per<g ref="char:EOLhyphen"/>manent, immortal, immutable.</p>
+            <p n="37">
+               <hi>XXXVII.</hi> The Image of God in <hi>Adam</hi> was not created, but infuſed, and the ſame way that the Image of God was infuſed in<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Adam,</hi> Faith <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> infuſed.</p>
+            <p n="38">
+               <note place="margin">☞</note>
+               <hi>XXXVIII.</hi> If a Woman, being a Member of a Church, and diſmiſſed t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> another Church be delivered of a Child by the way, that Child is a Member of no Church becauſe born between two Churches.</p>
+            <p n="39">
+               <note place="margin">☞</note>
+               <hi>XXXIX.</hi> If upon leave from an Offi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er of a Church, a Member may have Liberty to be abſent to hear in another Church, yet if he ask leave by a Depu<g ref="char:EOLhyphen"/>ty, and depart, he muſt give Satisfaction for ending a Meſſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nger, and not coming himſelf.</p>
+            <p n="40">
+               <hi>XL.</hi> To hold Juſtification is not laid up in my ſelf, but in God's everlaſting Love witneſſed in an ab<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olute Promiſe, is a doctrine of Liberty and Licentiouſneſſ, &amp; a way to commit all Sins, and not to be troubl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.</p>
+            <p n="41">
+               <pb n="28" facs="tcp:100353:15"/>
+               <note place="margin">☞</note>
+               <hi>XLI.</hi> If a Man ſee no Chriſt nor no Faith, if he ſee himſelf full of Mortification, he may ſafely come to the Sacrament upon that Ground.</p>
+            <p n="42">
+               <note place="margin">☞</note>
+               <hi>XLII.</hi> What the Miniſter binds in Church-cen<g ref="char:EOLhyphen"/>ſure, is bound and looſed in Heaven.</p>
+            <p n="43">
+               <hi>XLIII.</hi> That the Covenant God made with <hi>A<g ref="char:EOLhyphen"/>braham</hi> in <hi>Gen.</hi> 17. 7. was a conditional Covenant.</p>
+            <p n="44">
+               <hi>XLIV.</hi> That Faith muſt go before Juſtification, as a Means to obtain Juſtification, <hi>Gal.</hi> 2. 16.</p>
+            <p n="45">
+               <hi>XLV.</hi> That though a man be ungodly before he be called and juſtified, yet not immediately before he is juſtified; for he is called before he is juſtified, <hi>Rom.</hi> 8. 3.</p>
+            <p n="46">
+               <hi>XLVI.</hi> That Chriſt ſtiles his diſciples a Faithleſs Generation, and he muſt needs mean of them, becauſe he ſaith, <hi>How long ſhall I be with you, &amp;c?</hi> Mark 9. 19.</p>
+         </div>
+         <div type="queries">
+            <pb n="29" facs="tcp:100353:15"/>
+            <head>QUERIES by another Hand for the <hi>New-England</hi> Prieſts and Elders to Anſwer.</head>
+            <p>
+               <hi>1ſt,</hi> VVHether did Chriſt come to ſave mens Lives, or to deſtroy them?</p>
+            <p>
+               <hi>2ly,</hi> Whether did not Chriſt dye for all men, to the Intent that all men through him might have Life, and believe in him, and be ſaved?</p>
+            <p>
+               <hi>3ly,</hi> whether the Goſpel is not a Goſpel of Salvation?</p>
+            <p>
+               <hi>4ly,</hi> Where did ever Chriſt or the Apoſtles make any Law, to put any to Death that did blaſpheme againſt them, and would not hear them, but rather left them to the Eternal Judgment and Death, and the Tares and Wheat to grow together till the Harveſt?</p>
+            <p>
+               <hi>5ly,</hi> Whether have not <hi>New-England</hi> Prieſts and Elders brought forth a Monſtrous Birth of the Fleſh, worſe then <hi>Ba<g ref="char:EOLhyphen"/>laam,</hi> worſe then <hi>Core,</hi> worſe then <hi>Cain, Herod, Pharaoh</hi> and <hi>Nebuchadaczar;</hi> for theſe never pretended themſelves to be <hi>Chriſtians,</hi> and therefore my Query is, whether ye <hi>New-England</hi> Prieſts and Profeſſors, ſince ye fled out of Old <hi>Eng<g ref="char:EOLhyphen"/>land</hi> into the Wilderneſs of <hi>New<g ref="char:punc">▪</g>England,</hi> whether you have not brought forth many Monſtrous Births, like Bruit Beaſts, like Dragons, like Cockatrices, like Roaring Lyons and De<g ref="char:EOLhyphen"/>vouring Wolves? Let the Fruits of the Birth that they have brought forth in the Wilderneſs ſpeak.</p>
+            <p>For, hath not this Monſtrons Birth, or Births, ſo ſuddenly brought forth without the Midwiſe, which hath been begotten by the old Serpent, devoured Widdows Houſes, ſpoiled the Goods of the Innocent People of God, Whipt, Hang'd, Bani<g ref="char:EOLhyphen"/>ſhed, Cut off Ears, Branded with Hot irons?</p>
+            <p>
+               <pb n="30" facs="tcp:100353:16"/>
+Now if this be the Birth of the Spirit, let God, and Chriſt, and the Scriptures, and all Good <hi>Chriſtians</hi> judge.</p>
+            <p>
+               <hi>6ly,</hi> Whether or no, if theſe be your Principles, that are here laid down, you can make them good by Scriptures? and if you can, in your next give us Chapter and Verſe for it.</p>
+            <p>
+               <hi>7ly,</hi> Whether is this t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e God that you have made in the Wilderneſs of <hi>New-England,</hi> and worſhipped it? Surely Chriſt will break it to Powder, and put it into your River to drink, as <hi>Moſes</hi> did <hi>Iſrael</hi>'s Calf.</p>
+            <p>And over your Red Sea God's Heavenly <hi>Iſrael</hi> ſhall go dry-ſhod, and on the Banks above it, they ſhall ſtand and praiſe God, and ſee you wallowing in your own Red Sea of Blood, who purſue after the Blood of the Righteous, to bring them into your Spiritual Houſe of Bondage: but God will bring your Counſel to nought, as he did your Fore father, <hi>Pharaoh</hi> and his Hoſt:</p>
+            <p>For wherein do ye differ from all the Monſtrous Births of the World, with your Fleſhly Carnal Weapons, againſt the Birth that is born of the Spirit, and the Womb of the Morn<g ref="char:EOLhyphen"/>ing, <hi>Jeruſalem,</hi> which is above, who is free, and her Chil<g ref="char:EOLhyphen"/>dren, which is the Mother of us all True <hi>Chriſtians.</hi> For, the moſt Monſtrous Births, which have been brought forth in ma<g ref="char:EOLhyphen"/>ny Ages, in all Nations, are now brought forth in <hi>New-England;</hi> who out-ſtrip the <hi>Turks,</hi> and far have out-done the Biſhops, from whoſe Face you fled? And how can you ever any more exclaim againſt the Cruelty of the <hi>Papiſts?</hi> And have not the <hi>Chriſtians</hi> more Liberty amongſt the <hi>Turks,</hi> then amongſt you?</p>
+            <p>
+               <hi>8ly,</hi> And whether have not you diſhonoured <hi>Chriſtianity,</hi> more then the <hi>Turks,</hi> in your Lives and Actions, and the <hi>Jews,</hi> who crucified Chriſt without the Gates of <hi>Jeruſalem?</hi> but you, who go under the Name of <hi>Chriſtians,</hi> perſecute and crucifie him in his Members within your Juriſdiction, and eve<g ref="char:EOLhyphen"/>ry Appearance of God, as they and all may ſee, that have ta<g ref="char:EOLhyphen"/>ken a Proſpect of your Proceedings in <hi>New-England.</hi>
+            </p>
+            <div type="part">
+               <p>
+                  <pb n="31" facs="tcp:100353:16"/>
+YOu Profeſſors and Prieſts of <hi>New-England,</hi> did the King give you Liberty for your Seditious Conventicle beyond the Seas, and give you a Patent for your Liberty<g ref="char:punc">▪</g> and that <hi>none others ſhould have their Liberty in</hi> New-England <hi>but your ſelves?</hi> And doth your Patent ſay, <hi>That you muſt Impriſon, Baniſh, Whip, Spoil the Goods of all them that will <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot conform to your Will-Worſhip, and Blind Zeal, and Self Righteouſneſs and Formal<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ties; and if any do return after that you have bani<g ref="char:EOLhyphen"/>ſhed them, then you are to Hang them, as you have done; and ſuch as come to viſit them that you do imp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſon, to cut off their Ears, and brand them with a Burning Iron, as you have done, that ſpeak againſt your Wicked Proceedings?</hi> Let us ſee, if that your Patent and the Scriptures will bear you out for your Pra<g ref="char:EOLhyphen"/>ctice, for your Hanging, and Cutting off Ears, and Burning with Hot Irons, and Baniſhing the King's Subjects, and Im<g ref="char:EOLhyphen"/>priſoning, and Spoiling of their Goods, as you have done, to them that would not conform to your Deviliſh Perſecuting Spirit.</p>
+               <p>And did ever the Biſhops Cut off any of your Ears, or Brand you with Hot Irons, and Hang any of you, or Baniſh any of you, under pain of Death, if that you did Return, and make you pay Five Shillings a Day for not hearing of them, and beat you with pitcht Ropes, and Cut off the Ears of any that came to viſit you, when any of you were in Priſon in Old <hi>England.</hi>
+               </p>
+               <p>And have not you with your cruel, Murderous, Perſecuting &amp; Oppreſſing Spirit, hindred the King's Subjects for Peopling that Place; and you to make wor<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Laws againſt the People of God, then ever the Biſhops had againſt you? and thus you have acted contrary to the Scriptures, and contrary to your <hi>Patent,</hi> and contrary to the Laws of <hi>England,</hi> and are judged of all, and of God, and the Angels and of all Good Men.</p>
+               <p>And are not you <hi>Prieſts</hi> and <hi>Profeſſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs</hi> of <hi>New England,</hi> like unto thoſe Workers of Iniquity, that <hi>David</hi> prayed againſt, as in <hi>Pſal.</hi> 64 when he ſaid, <hi>Hide me from the ſecret C<gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſel of the Wicked, from the Inſurr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctions of the Workers of Ini<g ref="char:EOLhyphen"/>quity,</hi>
+                  <pb n="32" facs="tcp:100353:17"/>
+                  <hi>who whet their Tongues like Swords, and bend their Bows to ſhoot their Arrows, even with bitter Words, that they may ſhoot in ſecret at the Perfect, &amp;c?</hi>
+               </p>
+               <p>But to talk of <hi>Perfect</hi> and <hi>Perfection</hi> amongſt you, your imperfect Spirit cannot endure to hear: And further, <hi>David</hi> ſaith, <hi>They encourage themſelves in an Evil Matter, they com<g ref="char:EOLhyphen"/>mune of laying Snares privily, &amp;c. but God ſhall ſhoot at them with an Arrow ſuddenly, and they ſhall be wounded; ſo they ſhall make their own Tongues to fall upon themſelves, and all that ſee them ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> away.</hi>
+               </p>
+               <p>And does not <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olomon</hi> ſay, <hi>Th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Expect<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tion of the Wicked ſhall pariſh, and th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir Y<gap reason="illegible" resp="#APEX" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s ſhall <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d the Cou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ls of the Wicked are Deceit, and their T<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Mercies are cruel, the Belly of the Wicked ſhall want, the Lamp of the Wicked ſhall be put out; the Sacrifices of the Wicked are Abo<g ref="char:EOLhyphen"/>mination to the Lord; the Way of the Wicked is Abomin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tion to the Lord, and the Thoughts of the Wicked are Abomination to the Lord; the Ploughing of the Wicked is Sin, and the Houſe of the Wicked ſhall be overthrown; the Horns of the Wicked ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll be cut off,</hi> ſaith David; <hi>and the Rod of the Wick<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll not reſt upon the Back of the Righteous; and the Light of the Wicked ſhall be put out,</hi> ſaith Job; <hi>the Wick<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ſhall fall by his own Wic<g ref="char:EOLhyphen"/>kedneſs,</hi> ſaith Solomon, <hi>Prov.</hi> 11 5.</p>
+               <p>And therefore conſider your ſelves, who have perſecuted and do perſecute the Righteous, whether you m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt not eat the Fruits of your own Doings; and whether the L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rd is not do<g ref="char:EOLhyphen"/>ing ſo to you, as you did to his People: And are you not as blind as the <hi>Jews,</hi> that crucified Chriſt, and called him a <hi>Blaſ<g ref="char:EOLhyphen"/>phemer,</hi> and ſaid, <hi>Let his Blood be upon us and our Children?</hi>
+               </p>
+               <p>Did not Chriſt Weep over <hi>Jeruſalem,</hi> when he would have gathered them? and did they not caſt away all Pity and Ten<g ref="char:EOLhyphen"/>derneſs of the Lord towards themſelves? and when he told them what Miſery they would come to, which did come to paſs in the dayes of <hi>Titus,</hi> when <hi>Jeruſalem</hi> was Deſtroyed; and had not they then Blood to drink, who had drunk Blood?</p>
+               <p>And have not God's people wept, mourn'd, travail'd over you and for you, <hi>New<g ref="char:punc">▪</g>England Prieſts</hi> and <hi>Profeſſors?</hi> and ſtill you remain in your Hardneſs: For, what pleaſure is it to
+<pb n="33" facs="tcp:100353:17"/>
+the Fleſh, or their own Wills, for the Servants of the Lord, both Men and Women, for them to travail ſome Hundreds, ſome Thouſands of Miles, to warn you, and exhort you to fear God, and leave off your Wickedneſs and Perſecution of people that would be called <hi>Chriſtians,</hi> which have diſhonou<g ref="char:EOLhyphen"/>red both Name and Nature, Life and Religion, from whom Repentance is hid from many of your Fyes, and ſeveral of you have dyed in your Sins and Wickedneſs, in the <hi>Jews</hi> ev<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Thoughts, who thought <hi>they did God Good Service in Killing <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is M<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngers.</hi>
+               </p>
+               <p>Oh! you Profeſſors and Prieſts of <hi>New England,</hi> that the Sun ſhould go down upon you, and beſet, that you ſhould be ſo dark, and not ſee your ſelves: for the <hi>Jews</hi> diſcerned not the Time of the Son's Coming in the Fleſh, nor you the Time of his Coming in the Spirit.</p>
+               <p>And therefore, once more take heed of the Lord God lea<g ref="char:EOLhyphen"/>ving you to your <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elv<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and giving you up to your Hearts Luſts, who have been the De<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of the Goodne<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and Riches, and Forbearance of the Long-ſufferings of the Lord God, which would have led you to Repentance; but after the Hardneſs and Impenetency of your Hearts, have treaſured up Wrath againſt the Day of Wrath, and Re<g ref="char:EOLhyphen"/>velation of the Righteous Judgments of God<hi>:</hi> And therefore, how can you ex<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ect but Indignation, Tribulati<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n and Anguiſh upon all you that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave done ſo many Wicked Deeds againſt the Servants of the Lord and d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unk their Blood?</p>
+               <p>And therefore, you that b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſober mind and conſider theſe things, and conſider what <hi>Jacob</hi> ſaid of the Cruelty and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h of <hi>Simeon</hi> and <hi>Levi, O my Soul, come no thou into their Secret, unto their Aſſembly, mine Honour be not thou united; for in their Anger they ſlew a Man, and in their Self w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll they digged down a Wall;</hi> and he ſaid, <hi>Curſed be their Anger, for it was fierc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; and their Wr<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h, for it was cruel.</hi> Now <hi>Jacob</hi> was the ſecond Birth; but we do know, that you that are born of the Fleſh will perſecute him that is born of the Spirit; but the Birth of the Fleſh is not a True <hi>Chriſtian,</hi> neither can enter into the Kingdom of God, except ye be born again?</p>
+               <closer>
+                  <signed>G. F.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="34" facs="tcp:100353:18"/>
+            <head>The Copy of a Letter which was deli<g ref="char:EOLhyphen"/>vered into the Hands of <hi>R. Bel<g ref="char:EOLhyphen"/>lingham,</hi> late Governour of <hi>Boſton</hi> in <hi>New-England,</hi> for him to read and conſider, with his Aſſiſtants, &amp; the Inhabitants of the Town of <hi>Bo<g ref="char:EOLhyphen"/>ſton,</hi> with the reſt of their Brethren where this may come.</head>
+            <p>THe Powers that are ordained of God, are for the Puniſhment of Evil doers, and for the Praiſe of them that do well: But thee, <hi>Richard Bellingham,</hi> who art accounted Chief Magiſtrate in this place, haſt not acted by this Rule, in what thou haſt done againſt me; but haſt laid thy Sword upon the Innocent, for which the Lord God will plea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with thee and your Prieſt whoſe Name is <hi>Increaſe Madder,</hi> who was one with thee in thy Cruelty, and the reſt of your Bre<g ref="char:EOLhyphen"/>thren, who were preſent; but the people who came to hear, thou turnedſt out of thy Doors, that they might not ſee your Works of Darkneſs, although I deſi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed thee, that they might ſee what was done; for <hi>Truth is not aſham<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, nei<g ref="char:EOLhyphen"/>ther doth it hide it ſelf in Corners;</hi> but Cruelty and Oppreſſi<g ref="char:EOLhyphen"/>on ſeeks to cover it ſelf, as <hi>Iames Oliver</hi> would do, who ſaid, <hi>I was a Woolf, and you would k<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Wolves;</hi> who had no hing a<g ref="char:EOLhyphen"/>gainſt me, to prove me in that beaſtly Nature, but <hi>I was a Stranger unto you,</hi> who are Profeſſors of the Scriptures, which ſay, <hi>You ſhould not forget to Entertain Strangers;</hi> but this was the Entertainment I found amongſt you,
+<pb n="35" facs="tcp:100353:18"/>
+a Conſtable ſeized on me and my Goods, and took them from me before I was on your Shore, and brought me before thee <hi>Richard Bellingham,</hi> who hadſt nothing againſt me, but that I was a <hi>Quaker,</hi> alſo asking me, what I came here for, and how long I would ſtay, and whither I would go? my An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer was, I ſtood in the Will of the Lord, and did not know how long I ſhould ſtay, nor whither I ſhould go, but as the Lord orders me. Thou ſaidſt I ſpake very meekly, and was a ſober man, yet thou by Tempting Words ſoughtſt to inſnare me, and ſcof<g ref="char:EOLhyphen"/>fingly ſaid, you are free from Sin, are you not? My An<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer was, my Faith ſtands in that Power which cleanſeth my Heart from dead Works, to ſerve the Living God in the New<g ref="char:EOLhyphen"/>neſs of Life; and the Grace of God which brings Salvation, which hath appeared to all men, was my Teacher, which taught the Saints of old to deny all Ungodlineſs and Worldly-Luſts, and to live godly and ſoberly in this World, but your Teacher <hi>Increaſe Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>der,</hi> ſaid, <hi>There was nothing in him that he hoped to be ſaved by, and that there was none cleanſed from all Sin on this ſide the Grave, and there was none good; no not One.</hi> Unto whom I ſaid, <hi>Thou art a dark man, and ſpeak<g ref="char:EOLhyphen"/>eſt ignorantly of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Things of God,</hi> at which thou roſe up in much Anger, and hadſt much to do to keep thy Hands off me, which was not ſeemly f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r a man that ſitteth on the Seat to do Juſtice: And ſo thou ſpake to thy Officer to take me away, &amp; wouldſt not ſuffer me to ſpeak in my own Deſence, which was not denyed <hi>Paul</hi> by <hi>Foelix,</hi> who was counted an Heathen; and ſo thou gaveſt Order to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eep me cloſe, and let none come at me, where I am kept in a ſtincking ſmoaky Hole; and alſo thou and thy Aſſiſtants, I hear have laid a Fine upon the poor man (in whoſe Ship I came as a Paſſenger) of an Hundred Pounds, if he ſend me not away the firſt Opportunity. Oh ye cruel ridged Profeſſors! the Lord hath opened an Eye that ſe<g ref="char:EOLhyphen"/>eth you, and he will redeem his People from under your Bon<g ref="char:EOLhyphen"/>dage, who are exerciſing your Cruelty upon them; but the Lord will plead with you; and alſo the Man not willing I ſhould lie in ſuch a naſty Place, deſired of you to let me be at his Houſe till he had an Opportunity to ſend me away, but ye
+<pb n="36" facs="tcp:100353:19"/>
+would not, who have nothing worthy of Bonds to lay to my Charge. Oh how hath the God of the World blinded your Eves, and filled your Hearts with Envy againſt the Appear<g ref="char:EOLhyphen"/>ance of God! who are Profeſſors of the Scriptures, and ſay, <hi>They <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>;</hi> b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t you know them not, nor the Power of God which give them forth, as it was ſaid to them of Old, who were crying, <hi>The Templ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Lord, th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Temple of the Lord; and if we <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to our Fath<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s Days, we would not <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Prophets,</hi> who were garniſhing their Sepulchers, and painting their Tombs, who ſlew the Lord of Life, and hung im on a Tree. And may I not ſay unto you, as <hi>Stephen</hi> ſaid unto them, <hi>Ye <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> necked, and uncircumciſed in Heart and Ears, ye always reſiſt the holy Ghoſt, as your Fathers did, ſo do ye, but they gnaſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d upon him with their Teeth, and caſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> out of their City, and ſhed his Blood:</hi> and do not your Fruits make you manifeſt, as theirs did? and do not the Scriptures of Truth bear Teſtimony againſt you, that you are of the Wolf's Nature i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Sheep's Clothing, which devours the Lambs (indeed) for you do ſavour of the devouring Spirit, and not of the Meek Spirit of Chriſt Jeſus, who ſaid, <hi>I came to ſave me<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Lives, and not to deſtroy them, who is come and his Reward is with him;</hi> who ſaid, <hi>It hath been ſaid by them of old time, thou ſhalt love thy Neighbour, and hate thy Enemy, but I ſay unto you, Love your Enemies, pray for them that deſpight<g ref="char:EOLhyphen"/>fully uſe you, and perſecute you,</hi> Mat. 5. 43, 44. But thee <hi>Richard Bellingham</hi> a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of another Spirit, the Lord rebuke thee, who ſaid thou thoughtſt thou didſt God good Service in what thou didſt againſt us: So the Words of Chriſt Jeſus are fulfil<g ref="char:EOLhyphen"/>led upon thy Head, which he ſpake ſaying, <hi>They ſhall ſpeak all manner of Evil of you, and they will think they do God good Ser<g ref="char:EOLhyphen"/>vice, when they kill you.</hi> So out of thy own Mouth art thou judged; but as for thy cauſing thy Jailer to read the thirteenth chapter of <hi>Zachary</hi> to me, that will not cover thee in the Day of the Lord, for he is come who is the End of the firſt Co<g ref="char:EOLhyphen"/>venant, and hath brought in the better Hope, which deſtroyes the Devli &amp; his Works, and ſaves men alive, who rebuked his Diſciples, when they would have had Fire come down from
+<pb n="37" facs="tcp:100353:19"/>
+Heaven, as <hi>Elias</hi> had, to deſtroy them with whom they were offended, but he ſaid unto them, <hi>Ye know not what Spirit ye are of;</hi> before whom all things are naked and bare, who beholds thy Cruelty, who wouldſt have me give thee under my hand, never to come to this Town more, or elſe in Priſon it ſeems I muſt lie, till by your Law I am forced to another Land; but unto thy cruel Will herein I dare not bow; for I may come again into this Town, and honeſt men who fear the Lord may live here, when your Laws are vaniſhed as the Smoak before the Wind, and your falſe Doctrine come to ceaſe, which your Prieſt <hi>Increaſe Madder,</hi> and ſome of you held forth, when I was before you; for he is made manifeſt whom we bear Teſtimony unto, who is given of God, <hi>for a Covenant of Light unto the Gentiles, and for Salvation unto the Ends of the Earth;</hi> this is he of whom it was ſaid, <hi>Of his Fulneſs we have received,</hi> and by Grace were they ſaved, &amp; not of themſelves, it was the Gift of God, and they had theſe heavenly Treaſures in their Earthen Veſſels, as the Scripture ſaith, <hi>Acts</hi> 6. 8. <hi>Stephen</hi> was a man full of Faith, and of Power, and the Saints were filled with the holy Ghoſt, and ſpake as the Spirit gave them Utterance, <hi>Acts</hi> 2. 4. And Chriſt Jeſus ſaid, <hi>He that beliveth on me, out of his Belly ſhall ſlow Riv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs of Living Water,</hi> John 7. 38. <hi>Ye know the Spirit of Truth, for he dwelleth with you, and ſhall be in you; and I am in my Father and you in me, and I in you</hi> John 14. 17, 20. And the Apoſtle ſaid, <hi>Chriſt was in them the Hope of Glory.</hi> And he to the <hi>Corinthians, Chriſt was in them except they were Reprobates.</hi> And theſe were Mi<g ref="char:EOLhyphen"/>niſters of the Spirit, who had theſe Heavenly Treaſures in them; but what a Miniſter <hi>Increaſe Madder</hi> is, let them whoſe Eyes are open judge, who ſaith, <hi>He hath nothing in him by which he hopes to be ſaved<g ref="char:punc">▪</g>
+               </hi> A dry Tree! and miſerable Sheep are they, who have ſuch a Shephe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and well may it be ſaid, that they that feed and follow ſuch Teachers, <hi>give their Money for th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t which is not Bread and their Labour for that which ſatisfi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s not their Souls.</hi> And <hi>Increaſe Madder</hi> ſaith, <hi>There is none clean<g ref="char:EOLhyphen"/>ſed from all Sin on this ſide the Grave;</hi> but the Scripture ſaith, <hi>As the Tree falls, ſo it lies; and as Death leaves, Judgement</hi>
+               <pb n="38" facs="tcp:100353:20"/>
+               <hi>fin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and there is no Repentance in the Grave.</hi> Where muſt they be cleanſed then? I know not, except he believes as the Pope doth, that <hi>there is a Purgatory,</hi> becauſe he ſaith, <hi>not all their Sins;</hi> for in leed the <hi>Papiſts</hi> do believe, that <hi>their venial Sins</hi> (as they call them) <hi>ſhall be purged away there;</hi> but the Scripture ſaith, <hi>If we walk in the Light, as he is in the Light, we have Fellowſh pone with another, and the Blood of Jeſus Chriſt his Son cleanſeth us from all Sin,</hi> 1 John 1. 7. <hi>And ye ſhall know the Truth, and the Truth ſhall make you free,</hi> John 8 32. <hi>And there is therefore no Condemnation to them that are in Chriſt Jeſus, who walk not after the Fleſh, but after the Spirit; for the Law of the Spirit of Life in Chriſt Jeſus, hath made me free from the Law of Sin and D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath,</hi> Rom. 8 1, 2. And <hi>John</hi> ſaith, <hi>Herei<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is our Love made perfe<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, that we may have Boldneſs in the Day of Judgment, becauſe as he is ſo are we in this World,</hi> 1 John 4. 17. and theſe were Men l<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving on this Side the Gra<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e. But <hi>Increaſe Madder</hi> ſaith, <hi>there is none good, no not one:</hi> It is very true, that t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe that are out of God's Covenant, and have none of theſe Heavenly Trea<g ref="char:EOLhyphen"/>ſures in them but are as Clouds without Water, Heady, High minded men, greedy after filthy Lucre, whoſe God is their Belly, who mind Earthly things, ſuch we have to con<g ref="char:EOLhyphen"/>tend with, for the Truth's ſake, as the Apoſtles had in their Day, who were Enemies to the Croſs of Chriſt then, as you are at this Day<hi>:</hi> I ſay in that State there is none good, no, not one; and the moſt upright of them, is as a Briar, and the juſteſt amongſt them as a Thorn-Hedge, I find it ſo; but bleſſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d be the Lord, who is my Keeper, who hath redeemed me out of their Dwelling-place, and opened mine Eves with many mor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and we ſee where you are, and we know God's Controverſie is with your blind Guides (who cauſe you to err) and you who are led by them, who are covering your ſelves with a Pro<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſion, as the <hi>Phar<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſee<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> did, but your Hands are full of Cruelty, and your Hearts hardned in Perſecution unto Blood, and are ma<g ref="char:EOLhyphen"/>king a Mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k of Sin, who in Deriſion are calling the Innocent Servants of the Living God, Wolves, and ſay you muſt kill them. Oh ye wretched men! God will plead with you<hi>:</hi> was
+<pb facs="tcp:100353:20"/>
+ever the Flock of Chriſt Jeſus found in your Practice? did ever the Lambs kill Wolves? but they that fear God, and work Righteouſneſs are accepted of him, but always ſuffered as E<g ref="char:EOLhyphen"/>vil-doers, by them who had a Form of Godlineſs, but reſiſted the Power, in whoſe Steps ye are; but ſuch as you ſow, ſuch ſhall you reap, God will not be mocked by you; for the Day of the Lord is come, which burns as an Oven, wherein God will plead with all Fleſh for his Seed's Sake, which he hath and is raiſing up, who hath ſaid unto it live, and it ſhall live; though our Bodies may be laid in the Duſt, yet it ſhall ſpring forth in Thouſands more<hi>:</hi> So in vain do ye ſtrive, ye mortal men, the Fruit of your doings will fall on your own Heads, a Weight too heavy for you to bear.</p>
+            <p>
+               <hi>From One that ſuffers, by you for the Truth's Sake,</hi>
+            </p>
+            <closer>
+               <dateline>Boſton-Priſon-Houſe, <date>the 15th of the 4th Moneth, 1667.</date>
+               </dateline>
+               <signed>John Tyſo.</signed>
+            </closer>
+            <postscript>
+               <p>And <hi>Richard Bellingham,</hi> it is Equity and Juſtice for thee to return to me the Books thou tookeſt from me, which are mine, and is Injuſtice in thee to take them from me; therefore do as thou wouldſt be done by, and let thy Moderation be ſeen, for the Lord is at hand, who is no Reſpecter of Perſons, but gives unto every man according to his Doings; for he hath given of his Good Spirit to inſtruct man, but many rebel againſt it; but it hath taught us, who have believed in it, as it did his People of old, <hi>To do unto all men as we would they ſhould do un<g ref="char:EOLhyphen"/>to us;</hi> and <hi>gives us Strength and Patience to undergo what Cruel Men may be ſuffered to inflict upon us;</hi> who can ſay f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om our Hearts. <hi>If it be thy will, Lord, Forgive them,</hi> bleſſed be his Name forever: and this is from one that hath learned of Chriſt, and am a <hi>Chriſtian,</hi> though in Scorn by thee called a <hi>Quaker;</hi> yet Quaking and T<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>embling I have experience of,
+<pb n="7" facs="tcp:100353:21"/>
+as the holy men of old had, and as the Apoſtle exhorted the Saints, to <hi>work out their Salvation with Fear and Trembling;</hi> and ſo they that are true <hi>Chriſtians</hi> will not wonder and mock at <hi>Quaking</hi> and <hi>Trembling;</hi> but God will plead with the Un<g ref="char:EOLhyphen"/>circumciſed; for crying <hi>Lord, Lord,</hi> will not ſave them; for <hi>it is the Doers of his Will that are juſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d in his Sight;</hi> and Ch<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſt Jeſus ſaid, <hi>Except ye cat my Fleſh and drink my Blood, ye have no Life in you,</hi> John 6. 53 And ſo conſider thy Cru<g ref="char:EOLhyphen"/>elty in keeping me here, and thy Goaler <hi>William Salli<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r,</hi> who will not ſuffer a man to bring me work; but as Chriſt Jeſus ſaid, <hi>Go learn what that means, I will h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve Mercy, and not Sacrifice.</hi>
+               </p>
+               <closer>
+                  <signed>J. T.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="authors_note">
+            <p>A Copy of this fore going Paper was delivered into the Hands of <hi>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>llingham,</hi> Governour of <hi>Boſton</hi> in <hi>New-England,</hi> the <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the 4th Moneth, 1667. but no Anſwer I received fr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or any of them; but through the Enmity of his perſecuting ſpirit<g ref="char:punc">▪</g> he ſaid, <hi>I deſerved to be Hanged;</hi> and thus Cruelty and Wickedneſs they act, and would bury it in Darkneſs with themſelves; but it is in my Heart to put it to publick View, that Wickedneſs and Hypocriſie might be ſeen and judged, and Righteouſneſs might take place in the Hearts of the Sons and Daughters of men; for the Day is come which diſcovers your Nakedneſs, and will conſume your Co<g ref="char:EOLhyphen"/>vering, your Out-ſide Profeſſion, and hath and will ſhatter your old Buildings, and Raſe your Foundation to the Ground. Ye Bloody Men, how do ye ſtink in the Noſtrils of the Holy God? and are you not become a Hiſſing to the Nations? Your Judgment ſlumbers not, who have been ſtout againſt the Lord in his breaking forth in the Hearts of his People: And you whoſe Hands have been dipt in Blood (yea, in the Blood of the Innocent Servants of the Living God, and no Place of Re<g ref="char:EOLhyphen"/>pentance can by you be found) Wo is unto you, your dayes are and ſhall be cut off in Darkneſs forever; but the Holy Seed (which you have fought againſt) which God hath raiſed
+<pb n="43" facs="tcp:100353:21"/>
+and is raiſing up, and alſo from amongſt you, ſhall repleniſh the Earth: For I do believe, there are Sheep which are not yet gathered (which the Lord will gather) from off your Barren Mountains &amp; dry Hills of your Empty, Dark, Ruſty, Cankered, eaten Proſeſſions, to reſt with the Lord in the Mountain of his Holineſs forever; and for this End is our Travail in Soul and Body, that people might be gathered to God: And the Cry of my Spirit is unto the Lord, <hi>Oh! that his Day might more and more dawn, that People might ſee their Way out of Darkneſs, and the Chains thereof through the Power of God might be bro<g ref="char:EOLhyphen"/>ken, and the Liberty of the Sons of God, which is in Righteouſ<g ref="char:EOLhyphen"/>neſs, might be known unto the Sons and Daughters of Men, af<g ref="char:EOLhyphen"/>ter this Deluge of Darkneſs and Night of Apoſtacy, which hath been over the World.</hi> For God Almighty is a fulfilling his Pro<g ref="char:EOLhyphen"/>miſes, and his Day is come unto many, and the Night is far ſpent unto Thouſands, Glory to God forever, though Multi<g ref="char:EOLhyphen"/>tudes yet ſit in Darkneſs, and ſee it not; for <hi>the God of the World hath blinded their Eyes, through the Enmity of the Seed of the Serpent, which bears rule in their Hearts, whereby they deſpiſe the Appearance of God, and perſecute his Servants, who are ſent unto them,</hi> as it was ſaid unto the Jews, <hi>I will ſend them Prophets and Apoſtles, and ſome of them they ſhall ſlay and per<g ref="char:EOLhyphen"/>ſecute, that all the Blood from Righteous</hi> Abel <hi>unto this day be re<g ref="char:EOLhyphen"/>quired at their Hands.</hi>
+            </p>
+            <closer>
+               <signed>J. T.</signed>
+            </closer>
+         </div>
+         <div type="testimony">
+            <pb n="42" facs="tcp:100353:22"/>
+            <head>Something further, as a Teſtimony againſt the Cruelty of the <hi>New-England</hi> Profeſſors</head>
+            <p>ANd now you <hi>New-England</hi> Prieſts &amp; Profeſſors, you are found in the Steps of that old perſecuting ſpirit, beyond the reſt of the Nations in t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Age of the World, in Cruelty and Bloodſhed; for you have ſlain the Prophets of the Lord, and drunk the Blood of the Martyrs of Jeſus; whereby the Iniquity of your Fore fathers you have fulfill'd in a large Meaſure, which will not depart from you Reins, nor be blotted out in Genera<g ref="char:EOLhyphen"/>tions to come, no more then the Blood thirſty Chief Prieſts, Scribes, and Phariſees, and Hard-hearted <hi>Jews</hi> are; but with them you will be recorded, and bound under the Chain and Seal of Darkneſs, and numbred with the ſeed of <hi>Cain,</hi> who <hi>Murdered his Brother, becauſe his Brother's Works were Righ<g ref="char:EOLhyphen"/>teous, and his Evil.</hi> But notwithſtanding the great Sufferings and cruel hard-hearted Dealings we have received from you Rulers, Prieſts and People of <hi>New-England,</hi> whoſe Priſons, S<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocks, Whips and Gallows have been our Portion from you, and for no other Cauſe, but our Teſtimony for God, who have been moved of the Lord to come amongſt you, and in true Love to your Souls<hi>:</hi> But Chriſt Jeſus, who is our Lord and Maſter, received ſuch Entertainment amongſt the great Pro<g ref="char:EOLhyphen"/>feſſors in the dayes of his Fleſh; and we know, the Servant is not greater then his Lord; and theſe Sufferings ſeem ſmall in Compariſon of the Eternal Weight of Glory which is alrea<g ref="char:EOLhyphen"/>dy revealed, and daily God is manifeſting to his People, wherein we have great Cauſe to Rejoyce; and we ſeeing the Proſperity of that bleſſed Work, he hath made us inſtrumen<g ref="char:EOLhyphen"/>tal in (to his Glory, and to the Comfort of many weary and hungry Souls) are daily encouraged in this bleſſed Work, and to ſound an Alarm againſt your <hi>Babyloniſh</hi> Building and Habi<g ref="char:EOLhyphen"/>tation of Cruelty, which God eternal hath determined to O<g ref="char:EOLhyphen"/>verthrow, notwithſtanding you are ſtout againſt him; but the
+<pb n="43" facs="tcp:100353:22"/>
+Lord will be too hard for you, and your Building muſt fall, who would limit the Holy One of <hi>Iſrael,</hi> as that Generation of Evil-doers did of old, who called Evil Good, and Good Evil, as you do, who ſay, <hi>You think God's Judgments are upon you becauſe you ſuffer that Erroneous People called</hi> Quakers <hi>to live amongſt you;</hi> ſo deſperately are your fooliſh Hearts dark<g ref="char:EOLhyphen"/>ned, that Judgment is turned backward, and Equity cannot enter: But behold! Cruelty and Oppreſſion covers your Dwelling-place. and you grope like Blind Men (in the dark) although God's Day is come, and the Children of it ſee your Nakedneſs, and whereby your Notion of Profeſſion is vani<g ref="char:EOLhyphen"/>ſhing, and ſhall molter away (like a Fogg when the Sun ari<g ref="char:EOLhyphen"/>ſeth in her Strength) and <hi>the Mountain of the Houſe of the Lord ſhall be eſtabliſhed on the tops of the Mountains; for</hi> Sion <hi>ſhall be built, and</hi> Jeruſaiem (ſpiritual) <hi>ſhall be inhabited in Defiance of her Foes:</hi> for, God Almighty hath thundred from his Dwelling place, and your Old Heavens muſt depart as a Scrole; for notwithſtanding your Profeſſion of Goſpel Ordi<g ref="char:EOLhyphen"/>nances, Death reigns over you, and to <hi>Moſes</hi> you are not yet come<hi>:</hi> But the Deſire of my Soul is, <hi>That the Lord may open the Eyes and Hearts of them amongſt you, who have any Tenderneſs of Spirit in them, and who have not ſinned out the Day of their Viſitation, that they would truly turn to the Lord who ſmites, and then he would truly heal them,</hi> who hath done Great Things for us, who have believed in his Name, and waited through the Way of his Judgments, his Mercies we have found; and our deſire is, <hi>that others might injoy the ſame;</hi> bleſſed be his Name who lives forever.</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>the 28th of the 5th Moneth, 1676.</date>
+               </dateline>
+               <signed>
+                  <hi>From one that deſires the Well being of all men,</hi> John Tyſo.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Page 9. line 9. for 1646. read 1643. page 10. line 1. for 1646. read 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
